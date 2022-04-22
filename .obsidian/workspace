@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "private/Players/Aubrey's Character.md",
+            "file": "docs/Lore/TheGods.md",
             "mode": "source",
             "source": true
           }
@@ -19,93 +19,77 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "1954a2d0035b344c",
-    "type": "split",
+    "id": "140fc6cd69f4a125",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "65af407531d80a93",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "4b4d1c9ab6ad0648",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {}
-            }
-          },
-          {
-            "id": "73b73765abf294f6",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
+        "id": "3da07623ed11a633",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "e0c13dec0bb36978",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
           }
-        ]
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300
+    "currentTab": 0
   },
   "right": {
-    "id": "ee6a7d4b84606e99",
-    "type": "split",
+    "id": "b6aa8467b60d4a8e",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "7837a287738503e7",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "235988026cae9dab",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "private/Players/Aubrey's Character.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "5300411d2616f6a0",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "private/Players/Aubrey's Character.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
+        "id": "4232b4279ec4d525",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "docs/Lore/TheGods.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
           }
-        ],
-        "currentTab": 1
+        }
+      },
+      {
+        "id": "305f1513d831eb48",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "docs/Lore/TheGods.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 591.5,
-    "collapsed": true
+    "currentTab": 0
   },
   "active": "8cebd8bdcd8b9b02",
   "lastOpenFiles": [
+    "docs/Lore/TheGods.md",
+    "docs/index.md",
     "private/Players/Aubrey's Character.md",
     "docs/Sessions/SessionOne.md",
-    "docs/index.md",
-    "docs/Lore/TheGods.md",
     "docs/Lore/theGods.md",
     "private/Sessions/Session0.md",
     "private/Sessions/Session1.md",
