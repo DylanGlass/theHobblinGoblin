@@ -10,9 +10,7 @@ It is believed that the gods descended to the mortal plane ages ago to live amon
 ## Gone without a Trace
 Sometime after the decent and long before modern day a calamity struck the world turning it into an apocalyptic wasteland with the gods nowhere to be found.
 
-Can you see this?
-<!-- Testing the comment -->
+## This is just a test for mgit
+Lets see if this uploads properly. I'm not sure about new lines they might have to be double entered to make them work. Lets try...
 
-Testing mgit on android.
-Still testing mgit
-One more time please a newline to?
+This is a double entered new line.
