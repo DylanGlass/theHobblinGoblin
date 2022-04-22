@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "docs/index.md",
             "mode": "source",
             "source": true
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "docs/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "docs/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -102,15 +102,15 @@
   },
   "active": "8cebd8bdcd8b9b02",
   "lastOpenFiles": [
+    "docs/index.md",
+    "docs/Sessions/sessionZero.md",
+    "private/Sessions/Session0.md",
     "README.md",
     "2021-11-22-22-54-02.png",
     "2021-11-22-22-52-49.png",
     "2021-11-22-22-49-26.png",
-    "docs/index.md",
     "docs/Lore/TheGods.md",
     "campaignVault/Sessions/Session1.md",
-    "campaignVault/Sessions/Session0.md",
-    "Sessions/Session0.md",
-    "History/Timeline.md"
+    "campaignVault/Sessions/Session0.md"
   ]
 }
