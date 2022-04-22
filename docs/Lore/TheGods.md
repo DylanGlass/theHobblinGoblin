@@ -9,6 +9,3 @@ It is believed that the gods descended to the mortal plane ages ago to live amon
 
 ## Gone without a Trace
 Sometime after the decent and long before modern day a calamity struck the world turning it into an apocalyptic wasteland with the gods nowhere to be found.
-
-Can you see this?
-<!-- Testing the comment -->
