@@ -20,13 +20,13 @@ summary
 
 ## Beginning 
 
-Each of you sit deep in the temperate forest just shy of the small town of [[Mourteen]]. Before you crackles the last embers of a small fire that eliminates the face of [[Enereg Mith]], a hardened woodelf and your guide for the trial that lays ahead. As he pokes at the embers he looks at each of you in turn... DESCRIBE CHARACTERS... EXPLAIN TASK
+Each of you sit deep in the temperate forest just shy of the small town of [[Mourteen]]. Before you crackles the last embers of a small fire that eliminates the face of [[Enereg_Mith]], a hardened woodelf and your guide for the trial that lays ahead. As he pokes at the embers he looks at each of you in turn... DESCRIBE CHARACTERS... EXPLAIN TASK
 
 ## Strong start 
 > Adventure's crests have been place inside an old dungeon, the players must acquire these crests to pass their final trial and become adventurers.
 
 ## Scenes 
-- [ ] Exposition at the campfire with [[Enereg Mith]]
+- [ ] Exposition at the campfire with [[Enereg_Mith]]
 - [ ] Dungeon
 
 ## Secrets and Clues 
