@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/index.md",
+            "file": "docs/Sessions/SessionOne.md",
             "mode": "source",
             "source": true
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/index.md",
+                "file": "docs/Sessions/SessionOne.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/index.md",
+                "file": "docs/Sessions/SessionOne.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -102,6 +102,7 @@
   },
   "active": "8cebd8bdcd8b9b02",
   "lastOpenFiles": [
+    "docs/Sessions/SessionOne.md",
     "docs/index.md",
     "docs/Lore/TheGods.md",
     "docs/Lore/theGods.md",
@@ -110,7 +111,6 @@
     "docs/Sessions/sessionZero.md",
     "README.md",
     "2021-11-22-22-54-02.png",
-    "2021-11-22-22-52-49.png",
-    "2021-11-22-22-49-26.png"
+    "2021-11-22-22-52-49.png"
   ]
 }
