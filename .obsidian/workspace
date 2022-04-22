@@ -1,0 +1,116 @@
+{
+  "main": {
+    "id": "fda5a734bec9d3e3",
+    "type": "split",
+    "children": [
+      {
+        "id": "8cebd8bdcd8b9b02",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "docs/Lore.md",
+            "mode": "source",
+            "source": true
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1954a2d0035b344c",
+    "type": "split",
+    "children": [
+      {
+        "id": "65af407531d80a93",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4b4d1c9ab6ad0648",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "73b73765abf294f6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ee6a7d4b84606e99",
+    "type": "split",
+    "children": [
+      {
+        "id": "7837a287738503e7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "235988026cae9dab",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "docs/Lore.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5300411d2616f6a0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "docs/Lore.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 591.5,
+    "collapsed": true
+  },
+  "active": "8cebd8bdcd8b9b02",
+  "lastOpenFiles": [
+    "docs/Lore.md",
+    "README.md",
+    "2021-11-22-22-54-02.png",
+    "2021-11-22-22-52-49.png",
+    "2021-11-22-22-49-26.png",
+    "campaignVault/Sessions/Session1.md",
+    "campaignVault/Sessions/Session0.md",
+    "Sessions/Session0.md",
+    "History/Timeline.md",
+    "Homebrew Material/Homebrew Monsters/Xixecal.md"
+  ]
+}

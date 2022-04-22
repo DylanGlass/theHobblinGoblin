@@ -1,0 +1,410 @@
+{
+  "monsters": [
+    [
+      "False Hydra",
+      {
+        "image": null,
+        "name": "False Hydra",
+        "source": "CritterDB",
+        "type": "Aberration",
+        "subtype": "",
+        "size": "Small",
+        "alignment": "Neutral Evil",
+        "hp": 32,
+        "hit_dice": "5d6 + 15",
+        "ac": 16,
+        "speed": "25 ft., burrow 25 ft.",
+        "stats": [
+          16,
+          14,
+          16,
+          12,
+          20,
+          8
+        ],
+        "damage_immunities": "",
+        "damage_resistances": "psychic",
+        "damage_vulnerabilities": "",
+        "condition_immunities": "petrified",
+        "saves": [],
+        "skillsaves": [
+          {
+            "Perception": 8
+          }
+        ],
+        "senses": "darkvision 120 ft., Passive Perception 18",
+        "languages": "Any language known by a creature it has consumed",
+        "cr": 8,
+        "traits": [
+          {
+            "name": "Multiple Heads (Hydra)",
+            "desc": "The false hydra begins its life with one head, however, as it consumes more humanoid creatures the number of heads increases and it grows larger. Everytime the false hydra grows a new head its maximum Hit Points are increased by 30. The number of creatures the false hydra must consume in order to grow another head also increases with each head that it grows. Consult the table below to determine how many humanoids the false hydra must consume to grow another head. If it grows 7 heads, the false hydra transforms into a Mature False Hydra after taking a long rest. While it has more than one head, the hydra has advantage on saving throws against being blinded, charmed, deafened, frightened, stunned, and knocked unconscious.\n\nCreatures Consumed         | Number of Heads | False Hydra Size\n0 creatures consumed       | 1 head                          | Small\n3 creatures consumed       | 2 heads                        | Medium\n8 creatures consumed       | 3 heads                        | Medium\n18 creatures consumed     | 4 heads                        | Large\n35  creatures consumed    | 5 heads                        | Large\n70  creatures consumed    | 6 heads                        | Huge\n120 creatures consumed   | 7 heads                        | Huge"
+          },
+          {
+            "name": "Neck Stalks",
+            "desc": "The false hydra’s heads extend a long distance from its body. Whenever a head attacks a creature more than 15 ft. away from the body, the head provokes an attack of opportunity."
+          },
+          {
+            "name": "Reactive Heads",
+            "desc": "For each head the false hydra has beyond one, it gets an extra reaction that can be used only for opportunity attacks."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Multiattack",
+            "desc": "The false hydra makes as many bite attacks as it has heads."
+          },
+          {
+            "name": "Bite",
+            "desc": "Melee Weapon Attack: +6 to hit, reach 30 ft., one creature.\nHit: 8 (1d10 + 3) piercing damage and the target is grappled."
+          },
+          {
+            "name": "Discordant Song",
+            "desc": "The false hydra sings a discordant song. All creatures that can hear within 5 miles are charmed by the false hydra until the song ends. While charmed by the false hydra, a target can not see or hear the false hydra and all memories of its presence are suppressed as if the false hydra had never existed. Any resulting gaps in logic are confabulated by the target in order to preserve a logically consistent state of affairs. For example, if someone known to the target is killed by the false hydra, the target may believe that their deceased acquaintance has merely gone on a journey somewhere far away. During a long rest, a charmed creature makes a DC 20 Wisdom saving throw. If a creature’s saving throw is successful, their subconscious mind will  reach out to them in an attempt to warn them of the false hydra’s presence, possibly in the form of a note scrawled as they slept or by some other means at the DM’s discretion. The false hydra must take a bonus action on its subsequent turns to continue singing. It can stop singing at any time. The song ends if the false hydra makes a bite attack."
+          }
+        ],
+        "reactions": [],
+        "legendary_actions": []
+      }
+    ],
+    [
+      "Mature False Hydra",
+      {
+        "image": null,
+        "name": "Mature False Hydra",
+        "source": "CritterDB",
+        "type": "Aberration",
+        "subtype": "",
+        "size": "Gargantuan",
+        "alignment": "Neutral Evil",
+        "hp": 198,
+        "hit_dice": "12d20 + 72",
+        "ac": 20,
+        "speed": "5 ft., burrow 5 ft.",
+        "stats": [
+          30,
+          14,
+          22,
+          12,
+          28,
+          6
+        ],
+        "damage_immunities": "",
+        "damage_resistances": "psychic",
+        "damage_vulnerabilities": "",
+        "condition_immunities": "petrified",
+        "saves": [],
+        "skillsaves": [
+          {
+            "Perception": 14
+          }
+        ],
+        "senses": "darkvision 120 ft., Passive Perception 24",
+        "languages": "Any language known by a creature it has consumed",
+        "cr": 16,
+        "traits": [
+          {
+            "name": "Death Throes (Mythic Trait; Recharges after a Short or Long Rest)",
+            "desc": "When the false hydra is reduced to 0 hit points, it doesn’t die or fall unconscious immediately. Instead, it regains 214 hit points, then begins to wail and thrash about. It can no longer use its domination dirge. 24 hours after this trait becomes active, the false hydra dies."
+          },
+          {
+            "name": "Legendary Resistance (3/Day)",
+            "desc": "If the mature false hydra fails a saving throw, it can choose to succeed instead."
+          },
+          {
+            "name": "Multiple Heads",
+            "desc": "The false hydra has seven heads. Whenever the false hydra takes a long rest, if it ate enough to gain proper sustenance during the day, it grows an additional head. While it has more than one head, the hydra has advantage on saving throws against being blinded, charmed, deafened, frightened, stunned, and knocked unconscious."
+          },
+          {
+            "name": "Neck Stalks",
+            "desc": "The false hydra’s heads extend a long distance from its body. Whenever a head attacks a creature more than 15 ft. away from the body, the head provokes an attack of opportunity."
+          },
+          {
+            "name": "Reactive Heads",
+            "desc": "For each head the false hydra has beyond one, it gets an extra reaction that can be used only for opportunity attacks."
+          },
+          {
+            "name": "Siege Monster",
+            "desc": "The mature false hydra deals double damage to objects and structures."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Multiattack",
+            "desc": "The false hydra makes any combination of bite or swallow attacks as it has heads."
+          },
+          {
+            "name": "Bite",
+            "desc": "Melee Weapon Attack: +15 to hit, reach 120 ft., one target. Hit: 15 (1d10 + 10) piercing damage and the target is grappled."
+          },
+          {
+            "name": "Swallow",
+            "desc": "The false hydra makes one bite attack against a large or smaller creature it is grappling. If the attack hits, the target takes the bite's damage, the target is swallowed, and the grapple ends. While swallowed, the creature is blinded and restrained, it has total cover against attacks and other effects outside the false hydra, and it takes 35 (10d6) acid damage at the start of each of the false hydra’s turns. If a creature dies while inside the false hydra, the false hydra regains 4d6 hit points. If the false hydra takes 30 damage or more on a single turn from a creature inside it, the false hydra must succeed on a DC 20 Constitution saving throw at the end of that turn or regurgitate all swallowed creatures, which fall prone in a space within 10 feet of the false hydra. If the false hydra dies, a swallowed creature is no longer restrained by it and can escape from the corpse by using 30 feet of movement, exiting prone."
+          },
+          {
+            "name": "Domination Dirge",
+            "desc": "The false hydra sings a howling dirge. All creatures that can hear within 5 miles must succeed on a DC 16 Wisdom saving throw or be charmed by the false hydra until the song ends. While charmed in this way, a creature has a telepathic link with the false hydra. The false hydra can use this telepathic link to issue commands to the creature while the false hydra is conscious (no action required), which the target does its best to obey. The false hydra can specify a simple and general course of action, such as “attack that creature,” “run over there,” or “fetch that object.” If the creature completes the order and doesn’t receive further direction from the false hydra, it defends and preserves itself to the best of its ability.\nThe false hydra must take a bonus action on its subsequent turns to continue singing. It can stop singing at any time. The song ends if the false hydra makes a bite attack with all of its heads."
+          }
+        ],
+        "reactions": [],
+        "legendary_actions": [
+          {
+            "name": "Bite",
+            "desc": "The false hydra makes a bite attack."
+          },
+          {
+            "name": "Command",
+            "desc": "The false hydra commands up to 6 creatures charmed by it to use an action. Those creatures use that action immediately."
+          },
+          {
+            "name": "Drag",
+            "desc": "The false hydra uses its head to drag itself 30 feet in any direction."
+          },
+          {
+            "name": "Mythic Actions",
+            "desc": "If the false hydra’s mythic trait is active, it can use the options below as legendary actions for 1 hour after using Death Throes.\n\nHateful Bellow: The false hydra unleashes a piercing cry. All creatures within 5 miles that can hear must succeed on a DC 16 Wisdom saving throw or be paralyzed until the end of their next turn.\n\nVoracious Consumption (Costs 2 Actions): The false hydra makes as many bite attacks as it has heads. Any creature that is large or smaller hit by one of these attacks is also swallowed."
+          }
+        ]
+      }
+    ],
+    [
+      "Fallen LeShay",
+      {
+        "image": null,
+        "name": "Fallen LeShay",
+        "source": "CritterDB",
+        "type": "Fey",
+        "subtype": "",
+        "size": "Medium",
+        "alignment": "Lawful Evil",
+        "hp": 391,
+        "hit_dice": "34d8 + 238",
+        "ac": 20,
+        "speed": "30 ft., fly 60 ft. (hover)",
+        "stats": [
+          17,
+          23,
+          25,
+          23,
+          25,
+          30
+        ],
+        "damage_immunities": "cold; necrotic; poison; bludgeoning; piercing; slashing from nonmagical weapons",
+        "damage_resistances": "",
+        "damage_vulnerabilities": "",
+        "condition_immunities": "blinded, charmed, exhaustion, frightened, paralyzed, poisoned",
+        "saves": [
+          {
+            "dexterity": 14
+          },
+          {
+            "constitution": 15
+          },
+          {
+            "intelligence": 14
+          },
+          {
+            "wisdom": 15
+          },
+          {
+            "charisma": 18
+          }
+        ],
+        "skillsaves": [
+          {
+            "Acrobatics": 14
+          },
+          {
+            "Arcana": 14
+          },
+          {
+            "Insight": 15
+          },
+          {
+            "Perception": 15
+          },
+          {
+            "Deception": 18
+          },
+          {
+            "Intimidation": 18
+          },
+          {
+            "Persuasion": 18
+          }
+        ],
+        "senses": "truesight 120 ft., Passive Perception 25",
+        "languages": "All",
+        "cr": 23,
+        "traits": [
+          {
+            "name": "Innate spellcasting",
+            "desc": "The Fallen LeShay's innate spellcasting ability is Constitution (spell save DC 23). The Fallen LeShay can innately cast the following spells, requiring no material components:\nAt will: charm person, hex, magic missile (5th level), misty step, shield, suggestion.\n3/day each: conjure fey, dominate monster, dominate person, mass suggestion.\n1/day each: feeblemind, mind blank, plane shift, teleport."
+          },
+          {
+            "name": "Spellcasting",
+            "desc": "The Fallen LeShay is a 20th-level spellcaster. The Fallen LeShay's spellcasting ability is Charisma (spell save DC 26, +18 to hit with spell attacks). It requires no material components to cast its spells. The Fallen LeShay has the following sorcerer spells prepared:\n\nCantrip (at will): chill touch, frostbite, poison spray, ray of frost\n1st level (4 slots): witch bolt\n2nd level (3 slots): blindness/deafness, phantasmal force\n3rd level (3 slots): blink, counterspell, dispel magic, slow\n4th level (3 slots): blight\n5th level (2 slots): scrying\n6th level (2 slots): disintegrate, eyebite\n7th level (2 slots): finger of death\n8th level (1 slots): abi-dalzim's horrid wilting, power word stun\n9th level (1 slots): power word kill"
+          },
+          {
+            "name": "Legendary Resistance (3/Day)",
+            "desc": "If the Fallen LeShay fails a saving throw, it can choose to succeed instead."
+          },
+          {
+            "name": "Living into Decay",
+            "desc": "Any living creature that starts its turn or moves within 30 feet of the Fallen LeShay for the first time on a turn, must succeed on a DC 23 Constitution saving throw, taking 22 (4d10) necrotic damage on a failed save, or half as much damage on a successful one. Additionally any nonmagical wood within this area begins to decay. The Fallen LeShay can protect creatures from this effect."
+          },
+          {
+            "name": "Magic Resistance",
+            "desc": "The Fallen LeShay has advantage on saving throws against spells and other magical effects."
+          },
+          {
+            "name": "Magic Weapons",
+            "desc": "the fallen leshay's weapon attacks are magical."
+          },
+          {
+            "name": "The Names Have Power",
+            "desc": "The Fallen LeShay is known by many names, but only one is its true name. When a creature pronounces its true name, the Fallen LeShay immediately knows the plane of origin of that creature and a location of 5 mile radius where it is."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Multiattack",
+            "desc": "The Fallen LeShay makes two Touch of Decay attacks."
+          },
+          {
+            "name": "Touch of Decay",
+            "desc": "Melee Weapon Attack: +11 to hit, reach 5 ft., one target. Hit: 21 (4d8 + 3) necrotic damage. If the target is a creature and the Fallen LeShay hits it with this attack three times in one round, it must succeed a DC 23 Constitution saving throw or the creature's flesh decays. The creature has disadvantage on Charisma checks and vulnerability to all damage. At the end of each of its turns, the target can make another Constitution saving throw. On a success, the decay ends on the target. If the target is within the Fallen LeShay's Living into Decay area, it makes this check with disadvantage."
+          },
+          {
+            "name": "Metamagic",
+            "desc": "The Fallen LeShay can cast a spell and choose to twist it to suit its needs. It chooses one of the following options:"
+          },
+          {
+            "name": "1) Effortless Spell",
+            "desc": "If the spell has concentration, the Fallen LeShay has advantage on Constitution saving throw that it makes to maintain concentration on this spell."
+          },
+          {
+            "name": "2) Empowered Spell",
+            "desc": "When the damage for a spell is rolled, the Fallen LeShay can coos to reroll up to 5 dice and can choose which one to use to substitute for the original roll."
+          },
+          {
+            "name": "3) Extended Spell",
+            "desc": "If the spell has a duration of 1 minute or longer it has its duration doubled up to ten times to a maximum duration of 24 hours."
+          },
+          {
+            "name": "4) Heightened Spell",
+            "desc": "If the spell forces a creature to make a saving throw to resist its effects, it makes its first saving throw against the spell with disadvantage."
+          },
+          {
+            "name": "5) Subtle Spell",
+            "desc": "The spell is cast without any somatic or verbal components."
+          },
+          {
+            "name": "6) Twinned Spell",
+            "desc": "If the spell targets only one creature and doesn't have a range of self, the Fallen LeShay can choose to target a second creature in range with the same spell."
+          }
+        ],
+        "reactions": [
+          {
+            "name": "Redirection",
+            "desc": "When an attacker that the Fallen LeShay can see attacks it, the LeShay can use its reaction to force the attacker to make a DC 23 Wisdom save, on a failed save the attacker must choose another target. If no target is in range the attacker loses the action, wasting any resource used to make that attack."
+          }
+        ],
+        "legendary_actions": [
+          {
+            "name": "Embrace the Decay",
+            "desc": "The Fallen LeShay targets one creature that it can see within 60 feet. Any resistances or immunity to necrotic damage that the target has is suppressed. This effect lasts until the end of the Fallen LeShay's next turn."
+          },
+          {
+            "name": "Nothing but Decay",
+            "desc": "The Fallen LeShay makes an attack with Touch of Decay."
+          },
+          {
+            "name": "Disrupt the Weave (Costs 2 Actions)",
+            "desc": "The Fallen LeShay creates a 10-foot-radius invisible sphere of antimagic field in a point that it can see within 30 feet. This field remains until the end of the Fallen LeShay's next turn."
+          },
+          {
+            "name": "Metamagic (Costs 3 Actions)",
+            "desc": "The Fallen LeShay casts a spell with a random metamagic effect. Roll a d6 to determine the effect."
+          }
+        ]
+      }
+    ],
+    [
+      "Wendigo",
+      {
+        "image": null,
+        "name": "Wendigo",
+        "source": "CritterDB",
+        "type": "Fey",
+        "subtype": "",
+        "size": "Medium",
+        "alignment": "Chaotic Evil",
+        "hp": 157,
+        "hit_dice": "15d8 + 90",
+        "ac": 16,
+        "speed": "40 ft.",
+        "stats": [
+          24,
+          23,
+          22,
+          18,
+          22,
+          16
+        ],
+        "damage_immunities": "",
+        "damage_resistances": "variable",
+        "damage_vulnerabilities": "fire",
+        "condition_immunities": "fear",
+        "saves": [],
+        "skillsaves": [],
+        "senses": "darkvision 120 ft., scent",
+        "languages": "Common, Abyssal, Telepathy (60 ft.)",
+        "cr": 6,
+        "traits": [
+          {
+            "name": "Variable Resistance",
+            "desc": "When the wendigo takes acid, cold, lightning, or thunder damage, it gains resistance to that type of damage for 1 day."
+          },
+          {
+            "name": "Scent of Fear",
+            "desc": "All creatures within 50 ft., have disadvantage on WIS saves."
+          },
+          {
+            "name": "Beyond Sight",
+            "desc": "Whenever a wendigo ends its turn more than 25 ft. away from an enemy, it is invisible to that enemy until the end of the wendigo’s next turn."
+          },
+          {
+            "name": "Feeding Frenzy (1/day)",
+            "desc": "All creatures in the range of 50 ft., of the wendigo who are not at maximum HP.\nAll creatures targeted by this attack must make a CHA save (DC 15) or be forced to make a Cannibal’s Bite attack against a target of the wendigo’s choosing. If no targets are close enough, the wendigo can force a creature affected by this power to use it’s reaction to move close enough to another target and make the attack.\nIf a creature affected by this power fails its save by more than 5, it is also dominated as though under the effects of the Dominate Person spell."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Claw",
+            "desc": "Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 25 (4d8 + 7) slashing damage. The wendigo regains HP equal to half the damage dealt, rounded down."
+          },
+          {
+            "name": "Inflame the Hungry (Recharge when no creature is affected by this power))",
+            "desc": "Ranged Attack: range 50 ft., one target. Hit: 24 (4d8 + 6) psychic damage, or half as much on a successful WIS save (DC 17). If that target fails to make the WIS save, it is also dominated by the wendigo as the Dominate Person spell."
+          }
+        ],
+        "reactions": [],
+        "legendary_actions": []
+      }
+    ]
+  ],
+  "layouts": [],
+  "default": "Basic 5e Layout",
+  "useDice": true,
+  "renderDice": false,
+  "export": true,
+  "showAdvanced": false,
+  "version": {
+    "major": 2,
+    "minor": 14,
+    "patch": 2
+  },
+  "path": "/",
+  "autoParse": false
+}

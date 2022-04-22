@@ -1,0 +1,12 @@
+{
+  "legacyEditor": false,
+  "spellcheck": true,
+  "spellcheckLanguages": [
+    "en-US",
+    "en-CA"
+  ],
+  "promptDelete": false,
+  "attachmentFolderPath": "Attachments",
+  "livePreview": false,
+  "alwaysUpdateLinks": true
+}
