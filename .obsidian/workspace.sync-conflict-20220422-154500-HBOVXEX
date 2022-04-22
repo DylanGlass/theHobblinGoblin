@@ -1,0 +1,100 @@
+{
+  "main": {
+    "id": "fda5a734bec9d3e3",
+    "type": "split",
+    "children": [
+      {
+        "id": "8cebd8bdcd8b9b02",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "docs/Lore/TheGods.md",
+            "mode": "source",
+            "source": true
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "674967c89c1eb7c1",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "eb76a5e7748ddc80",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "45fd22713afa60d3",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "b488065c597b4e61",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "4bdea2027245484d",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "docs/Lore/TheGods.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "e514c9e88b95f55e",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "docs/Lore/TheGods.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "8cebd8bdcd8b9b02",
+  "lastOpenFiles": [
+    "docs/Lore/TheGods.md",
+    "docs/Lore/theGods.md",
+    "private/Sessions/Session0.md",
+    "private/Sessions/Session1.md",
+    "docs/index.md",
+    "docs/Sessions/sessionZero.md",
+    "README.md",
+    "2021-11-22-22-54-02.png",
+    "2021-11-22-22-52-49.png",
+    "2021-11-22-22-49-26.png"
+  ]
+}

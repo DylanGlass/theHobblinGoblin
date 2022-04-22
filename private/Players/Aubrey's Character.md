@@ -4,3 +4,5 @@ Werewolf
 - Completed the trials but was cursed with lycanthropy.
 
 
+Wisdom check to control the beast.
+Exhaustion after transforming.
