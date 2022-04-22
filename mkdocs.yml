@@ -8,7 +8,7 @@ theme:
     - media: "(prefers-color-scheme: light)"
       scheme: default
       primary: light green
-      accent: indigo
+      accent: cyan
       toggle:
         icon: material/weather-sunny
         name: Switch to dark mode
@@ -17,7 +17,7 @@ theme:
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
       primary: green
-      accent: blue
+      accent: teal
       toggle:
         icon: material/weather-night
         name: Switch to light mode
