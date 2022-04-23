@@ -4,7 +4,7 @@
 ### Description:
 
 The town of Mourteen is a small bustling hamlet near the northern tip of the main landmass. It is known for its fur trade and as a starting point for adventurers. 
-[[Ormond_Weirdwood]] lives in a cabbin a mile out of town.
+[[ormondWeirdwood]] lives in a cabbin a mile out of town.
 
 ### Population:
 
@@ -17,7 +17,7 @@ The town of Mourteen is a small bustling hamlet near the northern tip of the mai
 
 ### Notable Places:
 
--   The Heavenly Odeum: A grand timber and brick theatre, said to be built upon the ground where an [[Esmil]] noble was betrayed and murdered.
+-   The Heavenly Odeum: A grand timber and brick theatre, said to be built upon the ground where an [[esmil]] noble was betrayed and murdered.
 -   The Blackened Boot: A small tavern and inn in the Raven Valley district that prides itself in caring for the fire kissed boot of a the slain hero Mortamer.
 - Spikes & Scales: The local smithy owned by **Maly Gare** it mostly has horseshoes and farm equipment, but there are a few spears and daggers. 
 

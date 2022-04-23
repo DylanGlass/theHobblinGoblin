@@ -1,6 +1,7 @@
 # The Campaign
 
-
+## Adventure Hook
+An ancient and mysterious calamity caused the ruin of civilization and the disappearance of the gods from the mortal plane. Since then civilization has rebuilt itself, but no one seems to know why it collapsed in the first place.
 
 
 ## Homebrew Rules
@@ -12,3 +13,7 @@ If a player rolls a natural 20 on a saving throw and the natural 20 plus their m
 
 ### Better traps
 PCs will now gain one round of initiative when a trap is activated. This time can be taken to try and disarm the trap or HELP the player who activated it.
+
+
+## Language and Naming References
+Aarocokra: French

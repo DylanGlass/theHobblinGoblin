@@ -12,7 +12,7 @@
 
 ### Notable Places:
 
--   The Heavenly Odeum: A grand timber and brick theatre, said to be built upon the ground where an [[Esmil]] noble was betrayed and murdered.
+-   The Heavenly Odeum: A grand timber and brick theatre, said to be built upon the ground where an [[esmil]] noble was betrayed and murdered.
 
 ### A few NPCs:
 

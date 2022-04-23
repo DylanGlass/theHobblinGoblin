@@ -3,7 +3,7 @@ _Sub-tropical, Coastal Highland, Elven Kingdom, Unsafe, Lawful, Civilized_
 
 ---
 ## Details
-- Ruled by the Matriarch Empress [[Ira_Aemaer]].
+- Ruled by the Matriarch Empress [[iraAemaer]].
 - Surrounded by coastal cliffs.
 
 ---
