@@ -4,7 +4,7 @@
 ### Description:
 
 The town of Mourteen is a small bustling hamlet near the northern tip of the main landmass. It is known for its fur trade and as a starting point for adventurers. 
-[[ormondWeirdwood]] lives in a cabbin a mile out of town.
+[[ormondWeirdwood|Ormond Weirdwood]] lives in a cabbin a mile out of town.
 
 ### Population:
 

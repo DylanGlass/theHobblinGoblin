@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "private/Players/marxx.md",
-            "mode": "source",
+            "file": "private/Locations/mourteen.md",
+            "mode": "preview",
             "source": true
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "private/Players/marxx.md",
+                "file": "private/Locations/mourteen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "private/Players/marxx.md",
+                "file": "private/Locations/mourteen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -101,15 +101,15 @@
   },
   "active": "8cebd8bdcd8b9b02",
   "lastOpenFiles": [
+    "private/Locations/mourteen.md",
     "private/Players/marxx.md",
-    "private/Players/Marxx_Dylan Campaign (DnD).pdf",
     "private/Players/ruCiel.md",
+    "private/Players/Marxx_Dylan Campaign (DnD).pdf",
     "private/Players/aubreysCharacter.md",
     "private/Players/Ru_Dylan Campaign (DnD).pdf",
     "docs/Lore/theAdventurersGuild.md",
     "private/Sessions/session0.md",
     "private/z_codeBlocks.md",
-    "private/Locations/esmil.md",
-    "private/Locations/avia.md"
+    "private/Locations/esmil.md"
   ]
 }
