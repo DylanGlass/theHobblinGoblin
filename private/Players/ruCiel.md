@@ -9,3 +9,6 @@ Send young warriors to fight to become great warriors and bring glory back to th
 Old Arrococra on the ground are shamed or failed warriors.
 
 Cousin, chiefs son has been on the ground for many years longer. He was the prodigy. None of the returning Aarococra have seen him.
+
+Goal.
+To become physically strong

@@ -6,3 +6,7 @@ Werewolf
 
 Wisdom check to control the beast.
 Exhaustion after transforming.
+
+
+Goal.
+To control their urges.
