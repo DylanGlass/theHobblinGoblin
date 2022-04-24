@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "private/Locations/mourteen.md",
-            "mode": "preview",
+            "file": "private/Factions&Organizations/IronClawOrcTribe.md",
+            "mode": "source",
             "source": true
           }
         }
@@ -19,97 +19,82 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "b417e0b5d761fa14",
-    "type": "split",
+    "id": "22284774c50a2c64",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "00ae06ad7c037e30",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "aac7e81534193260",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {}
-            }
-          },
-          {
-            "id": "850d563e63cb870d",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
+        "id": "a3633d4b9b5f54ac",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "1c876186472c2c14",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
           }
-        ]
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300
+    "currentTab": 0
   },
   "right": {
-    "id": "e17fc127c898130b",
-    "type": "split",
+    "id": "c6af6a18f180e932",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "f6c87d8b378fc49d",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "7a8eec6a6074001f",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "private/Locations/mourteen.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "71c16b11936cbb0a",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "private/Locations/mourteen.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
+        "id": "ff6ebf5c788a9323",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "private/Factions&Organizations/IronClawOrcTribe.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
           }
-        ]
+        }
+      },
+      {
+        "id": "408ca1f14707c42e",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "private/Factions&Organizations/IronClawOrcTribe.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "currentTab": 0
   },
   "active": "8cebd8bdcd8b9b02",
   "lastOpenFiles": [
-    "private/Locations/mourteen.md",
+    "private/Factions&Organizations/IronClawOrcTribe.md",
     "private/Players/marxx.md",
+    "private/Locations/mourteen.md",
     "private/Players/ruCiel.md",
     "private/Players/Marxx_Dylan Campaign (DnD).pdf",
     "private/Players/aubreysCharacter.md",
     "private/Players/Ru_Dylan Campaign (DnD).pdf",
     "docs/Lore/theAdventurersGuild.md",
     "private/Sessions/session0.md",
-    "private/z_codeBlocks.md",
-    "private/Locations/esmil.md"
+    "private/z_codeBlocks.md"
   ]
 }
