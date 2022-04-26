@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "private/Locations/Mourteen.md",
+            "file": "docs/Lore/theAdventurersGuild.md",
             "mode": "source",
             "source": true
           }
@@ -19,97 +19,82 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "66ba9b2a90386aa0",
-    "type": "split",
+    "id": "5985f951ceb5ef68",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "ac8efec01cc099c2",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "987e0354008cdb3b",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {}
-            }
-          },
-          {
-            "id": "aaeacdb8bea5fadd",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
+        "id": "48460b253b449097",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "1d0f1c77db779936",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
           }
-        ]
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300
+    "currentTab": 0
   },
   "right": {
-    "id": "c2d17f2855fe430f",
-    "type": "split",
+    "id": "e7d328e1f6cf24fc",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "bc8bfe792f3012e7",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "f2e5897cedc02c98",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "private/Locations/Mourteen.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "79e0c24b44bcf405",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "private/Locations/Mourteen.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
+        "id": "5b37a83174ae1cca",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "docs/Lore/theAdventurersGuild.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
           }
-        ]
+        }
+      },
+      {
+        "id": "afc157ea0d38376b",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "docs/Lore/theAdventurersGuild.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "currentTab": 0
   },
   "active": "8cebd8bdcd8b9b02",
   "lastOpenFiles": [
+    "docs/Lore/theAdventurersGuild.md",
+    "private/Players/aubreysCharacter.md",
     "private/Locations/Mourteen.md",
     "docs/Lore/TheGods.md",
-    "docs/Lore/theAdventurersGuild.md",
     "private/Factions&Organizations/IronClawOrcTribe.md",
     "private/Players/marxx.md",
     "private/Locations/mourteen.md",
     "private/Players/ruCiel.md",
     "private/Players/Marxx_Dylan Campaign (DnD).pdf",
-    "private/Players/aubreysCharacter.md",
     "private/Players/Ru_Dylan Campaign (DnD).pdf"
   ]
 }
