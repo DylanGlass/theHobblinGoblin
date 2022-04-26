@@ -19,70 +19,85 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "5985f951ceb5ef68",
-    "type": "mobile-drawer",
+    "id": "9a03d5726778cc1e",
+    "type": "split",
     "children": [
       {
-        "id": "48460b253b449097",
-        "type": "leaf",
-        "state": {
-          "type": "file-explorer",
-          "state": {}
-        }
-      },
-      {
-        "id": "1d0f1c77db779936",
-        "type": "leaf",
-        "state": {
-          "type": "search",
-          "state": {
-            "query": "",
-            "matchingCase": false,
-            "explainSearch": false,
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical"
+        "id": "1efab2f1dbfdd55e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8cb85128d4b1d8c9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "a6fdcbba05f8afd1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
           }
-        }
+        ]
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 300
   },
   "right": {
-    "id": "e7d328e1f6cf24fc",
-    "type": "mobile-drawer",
+    "id": "fedf02630eac943d",
+    "type": "split",
     "children": [
       {
-        "id": "5b37a83174ae1cca",
-        "type": "leaf",
-        "state": {
-          "type": "backlink",
-          "state": {
-            "file": "docs/Lore/theAdventurersGuild.md",
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical",
-            "showSearch": false,
-            "searchQuery": "",
-            "backlinkCollapsed": false,
-            "unlinkedCollapsed": true
+        "id": "04428205d787a96e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fdf109ced95ad82c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "docs/Lore/theAdventurersGuild.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2dfce55df1231d1f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "docs/Lore/theAdventurersGuild.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
           }
-        }
-      },
-      {
-        "id": "afc157ea0d38376b",
-        "type": "leaf",
-        "state": {
-          "type": "outgoing-link",
-          "state": {
-            "file": "docs/Lore/theAdventurersGuild.md",
-            "linksCollapsed": false,
-            "unlinkedCollapsed": true
-          }
-        }
+        ]
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
   },
   "active": "8cebd8bdcd8b9b02",
   "lastOpenFiles": [
