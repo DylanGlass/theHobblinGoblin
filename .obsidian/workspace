@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "private/Locations/Esmil.md",
+            "file": "private/Locations/Arist.md",
             "mode": "source",
             "source": true
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "private/Locations/Esmil.md",
+                "file": "private/Locations/Arist.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "private/Locations/Esmil.md",
+                "file": "private/Locations/Arist.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -101,15 +101,15 @@
   },
   "active": "8cebd8bdcd8b9b02",
   "lastOpenFiles": [
+    "private/Locations/Arist.md",
     "private/Locations/Esmil.md",
     "private/Locations/Mourteen.md",
     "private/Locations/Witwallow.md",
+    "private/Locations/Avia.md",
+    "docs/Factions/theAdventurersGuild.md",
     "private/Locations/Map.md",
     "private/Players/Ru_Dylan Campaign (DnD).pdf",
     "private/Players/Marxx_Dylan Campaign (DnD).pdf",
-    "docs/index.md",
-    "docs/Factions/theAdventurersGuild.md",
-    "docs/Lore/TheGods.md",
-    "private/History/Timeline.md"
+    "docs/index.md"
   ]
 }

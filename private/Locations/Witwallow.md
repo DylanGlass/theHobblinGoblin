@@ -2,8 +2,11 @@
 
 
 # Witwallow
-## Description:
+_Village, Sub-tropical, Swamp, Merchants Republic, Unsafe, Lawful, Civilized_
 
+---
+## Description:
+Witwallow is a small swamp village with raised huts. It exports swamp iron and clay.
 
 
 ## Population:
