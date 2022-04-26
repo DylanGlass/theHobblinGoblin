@@ -2,7 +2,7 @@
   "mapMarkers": [
     {
       "id": "leaflet-map",
-      "lastAccessed": 1650321262582,
+      "lastAccessed": 1650990062885,
       "markers": [
         {
           "id": "ID_f958bb49d858",
@@ -281,9 +281,7 @@
       ],
       "overlays": [],
       "shapes": [],
-      "files": [
-        "Locations/Map.md"
-      ]
+      "files": []
     }
   ],
   "defaultMarker": {

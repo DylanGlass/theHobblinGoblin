@@ -16,4 +16,5 @@ PCs will now gain one round of initiative when a trap is activated. This time ca
 
 
 ## Language and Naming References
-Aarocokra: French
+Aarocokra: French.
+Haragon: Names end in double constantans (e.g. MarXX, IoVV, MeTT).
