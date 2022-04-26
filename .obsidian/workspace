@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/Lore/theAdventurersGuild.md",
+            "file": "docs/Factions/theAdventurersGuild.md",
             "mode": "source",
             "source": true
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Lore/theAdventurersGuild.md",
+                "file": "docs/Factions/theAdventurersGuild.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Lore/theAdventurersGuild.md",
+                "file": "docs/Factions/theAdventurersGuild.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -101,15 +101,15 @@
   },
   "active": "8cebd8bdcd8b9b02",
   "lastOpenFiles": [
-    "docs/Lore/theAdventurersGuild.md",
-    "private/Players/aubreysCharacter.md",
+    "docs/Factions/theAdventurersGuild.md",
     "private/Locations/Mourteen.md",
+    "private/History/Timeline.md",
+    "private/Players/aubreysCharacter.md",
     "docs/Lore/TheGods.md",
     "private/Factions&Organizations/IronClawOrcTribe.md",
     "private/Players/marxx.md",
     "private/Locations/mourteen.md",
     "private/Players/ruCiel.md",
-    "private/Players/Marxx_Dylan Campaign (DnD).pdf",
-    "private/Players/Ru_Dylan Campaign (DnD).pdf"
+    "private/Players/Marxx_Dylan Campaign (DnD).pdf"
   ]
 }
