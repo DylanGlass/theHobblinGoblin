@@ -21,7 +21,7 @@ Wisdom - 15 [+2]
 Charisma - 15 [+2]
 
 # Relationships
-Sexual Orientation - Straight
+Sexual Orientation - Asexual, sapiosexual, straight
 Relationship Status - Single
 
 # Alignment Tendencies
@@ -30,4 +30,4 @@ Neutral: 5 Neutral: 4
 Evil: 4 Chaotic: 9
 
 # Plot Hook
-He has been infected by an experiment gone wrong with a more prolific form of lycanthropy that changes him every night. Werewolf.
+He has been infected by an experiment gone wrong with a more prolific form of lycanthropy that changes him every night. [Werewolf].

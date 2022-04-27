@@ -396,7 +396,7 @@
   ],
   "layouts": [],
   "default": "Basic 5e Layout",
-  "useDice": true,
+  "useDice": false,
   "renderDice": false,
   "export": true,
   "showAdvanced": false,

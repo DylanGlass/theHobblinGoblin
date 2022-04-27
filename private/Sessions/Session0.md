@@ -1,5 +1,5 @@
 # Session Zero
-
+#Session
 ## Orders of Business
 - [x] Does Aubrey want to run the first dungeon or play in it? Play in it.
 - [x] [[session0#Adventure's Trial]]

@@ -10,5 +10,6 @@ Old Arrococra on the ground are shamed or failed warriors.
 
 Cousin, chiefs son has been on the ground for many years longer. He was the prodigy. None of the returning Aarococra have seen him.
 
-Goal.
-To become physically strong
+## Goals
+To become physically strong and return home a great warrior.
+To find out what happened to her cousin.

@@ -1,13 +1,10 @@
 --- 
-type: session 
 world: Guia 
-campaign: "campaignName" 
-adventure_arc: "currentAdventureArc"
 date: {{date}} 
 game_date: 2022-00-00
 location: Region 
 characters: [character, name, list] 
-tags [guia] 
+tags
 
 --- 
 
@@ -28,20 +25,21 @@ recap
 ## Scenes 
 - [ ] 
 - [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
+
 
 ## Secrets and Clues 
 - [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
 
-## [[Loot]] 
+## Fantastic Locations
+**Location**: aspects
+
+## Important NPCs
+**Name.** Description
+
+## Potential Monsters
+* Name (Book. page number/ link)
+
+## Loot 
 - [ ]
 
 --- 

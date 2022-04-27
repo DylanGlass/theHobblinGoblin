@@ -1,19 +1,24 @@
-### Description:
 
+# Place Name
+_Town, Temperate, Mixed Woods, Unclaimed Territory, Unsafe, Lawful, Civilized_
 
+---
+## Description:
 
-### Population:
+Description.
 
--   Approximately 58; mixed human and dwarf and half-elf.
+## Population:
 
-### Government:
+-   Approximately ##; races.
 
--   
+## Government:
 
-### Notable Places:
+-   Monarchy, mayor, priest, ungoverned.
 
--   The Heavenly Odeum: A grand timber and brick theatre, said to be built upon the ground where an [[esmil]] noble was betrayed and murdered.
+## Notable Places:
 
-### A few NPCs:
+-   Place Name: Details.
 
--   Maly Gare: Female Human Blacksmith, Good. Maly has thick white hair and brown eyes. She wears plain clothing and an iron amulet. Maly has an animal companion, a red firedrake named Adurg. [Drake, Fire](https://www.5esrd.com/database/creature/drake-fire/)
+## A few NPCs:
+
+-   Name: Gender Race Occupation, Alignment. Physical Description. Personality. Interesting Facts/Quest hooks.

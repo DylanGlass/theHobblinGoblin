@@ -15,11 +15,12 @@ title: DM Secret
 The village was attacked by the Iron Claw orc tribe. These orcs were sponsored by the Esmil government as retribution for the assassination of an esmillian noble in [[mourteen]].
 ```
 
-Goal.
+## Goals
 To become willfully strong.
-
 Adventure.
 Exploration, looking for friends killer.
+
+
 
 The village has a rumor that the skull shaped island to the east holds the power of the Tempest. The whirlpool that is thought to be at the skull's mouth is believed to reach past the deepest depths. The island is known to have frequent storms, even the best sailors steer clear. It is rumored that a hermit that lives in the mountains knows how to reach the island.
 
