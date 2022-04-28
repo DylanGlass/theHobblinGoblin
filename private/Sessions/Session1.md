@@ -3,14 +3,14 @@ world: Guia
 date: 2022-04-08 
 game_date: 2022-04-27
 location: [[Mourteen]]
-characters: Marxx, Ru, 
+characters: Marxx, Ru, Lyall
 #Session
 
 --- 
 
 ## Session Summary 
 
-summary
+Lyall, Marxx, and Ru entered the dungeon. Upon entering they noticed that the bridge in the first room was collapsed. To get over Ru knocked down a pillar and Lyall and Marxx used it to get to the other side. They entered the main room and went to the door to the right. Ru found some dwarven runes that were scratched into the wall by the door. These runes depicted dwarves, elves, a deity and some unrecognizable creatures. Inside the door they met two Spore Servants who attacked them when Marxx touched the spoke in the center of the room. Ru and Marxx both went down throughout the fight but in the end they deffeated the Spore Servants noticing that they were made of fungus and bone. They then fixed the gears on the wall and noticed that the spoke was still locked in place by a third channel of wall gears. They then returned to the main room and investigated the door to the north. They found that it has some kind of contraption that accepts a sphere to its side. The door was otherwise locked. Lyall turned into a mouse and investigated the other side. He found some large cogs that looked like they were in working order and a staircase. He exited. Ru investigated the left most door and found it was locked, she then investifated the gear box on the roof and failed to open it. Lyall and Marxx started a short rest but were interupted when a tendril from a violet fungus layed across Lyall's lap, inititive started and he took necrotic damage.
 
 --- 
 ## Housekeeping 
@@ -24,11 +24,11 @@ Each of you sit deep in the temperate forest just shy of the small town of [[mou
 > Adventure's crests have been place inside an old dungeon, the players must acquire these crests to pass their final trial and become adventurers.
 
 ## Scenes 
-- [ ] Exposition at the campfire with [[eneregMith]]
+- [x] Exposition at the campfire with [[eneregMith]]
 - [ ] Dungeon
 
 ## Secrets and Clues 
-- [ ] Markings on the dungeon wall depicts unknown monsters [[timeline#^3a0cb4|The Blackest Nights]]
+- [x] Markings on the dungeon wall depicts unknown monsters [[timeline#^3a0cb4|The Blackest Nights]]
 - [ ] Turning the peg wheel in the boss room of The Abandoned foundry turns the floor into a lift that descends into an abandoned mineshaft.
 - [ ] In the abandoned mineshaft there are aarakocra feathers that belonged to Ru's cousin.
 
@@ -52,3 +52,8 @@ Each of you sit deep in the temperate forest just shy of the small town of [[mou
 
 ## Log
 
+Fought the spore servents in the spoke room.
+Looking pretty haggared.
+Found gears on the cieling to open the top dome.
+Fixed some gears in the spoke room.
+Violet fungus started inititive by attacking Lyall.

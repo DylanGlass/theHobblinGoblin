@@ -19,111 +19,82 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "9a03d5726778cc1e",
-    "type": "split",
+    "id": "c4974b2bf37ec4d2",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "1efab2f1dbfdd55e",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "8cb85128d4b1d8c9",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {}
-            }
-          },
-          {
-            "id": "a6fdcbba05f8afd1",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
-          }
-        ]
-      }
-    ],
-    "direction": "horizontal",
-    "width": 300
-  },
-  "right": {
-    "id": "fedf02630eac943d",
-    "type": "split",
-    "children": [
-      {
-        "id": "fa36f77d2acf207a",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "8cebd8bdcd8b9b02",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          }
-        ]
+        "id": "eb51ac5caf03dae8",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
       },
       {
-        "id": "04428205d787a96e",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "fdf109ced95ad82c",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "private/Sessions/Session1.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": true,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "2dfce55df1231d1f",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "private/Sessions/Session1.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
+        "id": "f3ac38a6000f5543",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
           }
-        ],
-        "currentTab": 1
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 435.5
+    "currentTab": 0
+  },
+  "right": {
+    "id": "7d0ff875f11eaec0",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "90e40e7ba4963065",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "private/Sessions/Session1.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "9d0b75e84cc1e949",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "private/Sessions/Session1.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      }
+    ],
+    "currentTab": 0
   },
   "active": "d29a6f029456bceb",
   "lastOpenFiles": [
     "private/Sessions/Session1.md",
+    "private/HomebrewMaterial/Treacherous Traps.pdf",
+    "private/Players/Marxx_Dylan Campaign (DnD).pdf",
     "private/z_Templates/sessionPrep_template.md",
     "private/NPCs/ormondWeirdwood.md",
     "private/HomebrewMaterial/HomebrewRules/homebrewRules.md",
     "private/Locations/Mourteen.md",
     "private/Players/marxx.md",
     "private/Players/ruCiel.md",
-    "private/Players/aubreysCharacter.md",
-    "private/Sessions/Session0.md",
-    "private/Locations/Witwallow.md"
+    "private/Players/aubreysCharacter.md"
   ]
 }
