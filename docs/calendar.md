@@ -13,12 +13,12 @@ First Moon of Spring
 
 Second Moon of Spring
 
-| Sun             | Mon         | Tue | Wed | Thu | Fri | Sat |
-| --------------- | ----------- | --- | --- | --- | --- | --- |
-| 1 New Moon      | 2 **TODAY** | 3   | 4   | 5   | 6   | 7   |
-| 8 First Quarter | 9           | 10  | 11  | 12  | 13  | 14  |
-| 15 Flower Moon  | 16          | 17  | 18  | 19  | 20  | 21  |
-| 22 Last Quarter | 23          | 24  | 25  | 26  | 27  | 28  |
+| Sun                                  | Mon | Tue | Wed | Thu | Fri | Sat |
+| ------------------------------------ | --- | --- | --- | --- | --- | --- |
+| 1 New Moon, Final trials   **TODAY** | 2   | 3   | 4   | 5   | 6   | 7   |
+| 8 First Quarter                      | 9   | 10  | 11  | 12  | 13  | 14  |
+| 15 Flower Moon                       | 16  | 17  | 18  | 19  | 20  | 21  |
+| 22 Last Quarter                      | 23  | 24  | 25  | 26  | 27  | 28  |
 
 
 Last Moon of Spring
@@ -49,7 +49,7 @@ Second Moon of Summer
 | --------------- | --- | --- | --- | --- | --- | --- |
 | 1 New Moon      | 2   | 3   | 4   | 5   | 6   | 7   |
 | 8 First Quarter | 9   | 10  | 11  | 12  | 13  | 14  |
-| 15 Full Moon    | 16  | 17  | 18  | 19  | 20  | 21  |
+| 15 Guilded Moon | 16  | 17  | 18  | 19  | 20  | 21  |
 | 22 Last Quarter | 23  | 24  | 25  | 26  | 27  | 28  |
 
 
