@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/Sessions/sessionOne.md",
+            "file": "docs/Lore/theGods.md",
             "mode": "source",
             "source": true
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Sessions/sessionOne.md",
+                "file": "docs/Lore/theGods.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Sessions/sessionOne.md",
+                "file": "docs/Lore/theGods.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,15 +109,15 @@
   },
   "active": "d29a6f029456bceb",
   "lastOpenFiles": [
+    "docs/Lore/theGods.md",
+    "docs/index.md",
+    "private/Players/marxx.md",
     "docs/Sessions/sessionOne.md",
     "private/Sessions/Session1.md",
     "docs/calendar.md",
     "private/History/Timeline.md",
-    "docs/index.md",
     "docs/Factions/theAdventurersGuild.md",
     "private/HomebrewMaterial/HomebrewRules/homebrewRules.md",
-    "private/Sessions/Session2.md",
-    "private/Players/ruCiel.md",
-    "private/ImportantNPCs/iraAemaer.md"
+    "private/Sessions/Session2.md"
   ]
 }
