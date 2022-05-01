@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/Lore/theGods.md",
-            "mode": "source",
+            "file": "private/Sessions/Session2.md",
+            "mode": "preview",
             "source": true
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Lore/theGods.md",
+                "file": "private/Sessions/Session2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Lore/theGods.md",
+                "file": "private/Sessions/Session2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -99,25 +99,47 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "3e3ff551ef165d93",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
+      },
+      {
+        "id": "65b6ff039d44b747",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "af9e5277ec97c54f",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-creature-view",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 488.5
   },
   "active": "d29a6f029456bceb",
   "lastOpenFiles": [
+    "private/Sessions/Session2.md",
+    "private/Sessions/Session1.md",
+    "private/Players/marxx.md",
     "docs/Lore/theGods.md",
     "docs/index.md",
-    "private/Players/marxx.md",
     "docs/Sessions/sessionOne.md",
-    "private/Sessions/Session1.md",
     "docs/calendar.md",
     "private/History/Timeline.md",
     "docs/Factions/theAdventurersGuild.md",
-    "private/HomebrewMaterial/HomebrewRules/homebrewRules.md",
-    "private/Sessions/Session2.md"
+    "private/HomebrewMaterial/HomebrewRules/homebrewRules.md"
   ]
 }

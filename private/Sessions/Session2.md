@@ -39,9 +39,26 @@ recap done by the players
 **[[eneregMith|Enereg Mith]].** [[eneregMith#Description|Description]]
 
 ## Potential Monsters
-* Mycanid (MM.)
-* Mycanid Sovereign (Bossed) (MM.)
-* Mycanid Spore Servant (MM.)
+```encounter-table
+name: Spore Servants
+creatures:
+- 2: Quaggoth Spore Servant
+
+---
+
+name: Fungi
+creatures: 
+- Violet Fungus
+
+---
+
+name: Boss Fight
+creatures:
+- 4: Myconid Sovereign
+
+```
+
+
 
 ## Loot 
 - [ ] 30gp (chest)
