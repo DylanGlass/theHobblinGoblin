@@ -19,115 +19,77 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "e6304aef8b9459a5",
-    "type": "split",
+    "id": "8c60370ea4508015",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "8c8f6c0f40f392ab",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "15e7d9b68e546147",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {}
-            }
-          },
-          {
-            "id": "a7592a9220635851",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
-          }
-        ]
-      }
-    ],
-    "direction": "horizontal",
-    "width": 300
-  },
-  "right": {
-    "id": "b45884332ef44d15",
-    "type": "split",
-    "children": [
-      {
-        "id": "8b4e8070e86453ed",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "bfe6b61773e2959f",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "private/Sessions/Session2.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "74cfbdf5b80d8789",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "private/Sessions/Session2.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "7a676f2032a1219f",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
-          },
-          {
-            "id": "3e3ff551ef165d93",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-view",
-              "state": {}
-            }
-          }
-        ],
-        "currentTab": 3
+        "id": "c7cdc5ac57846999",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
       },
       {
-        "id": "65b6ff039d44b747",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "af9e5277ec97c54f",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-creature-view",
-              "state": {}
-            }
+        "id": "621268c7f3a3d67c",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
           }
-        ]
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 488.5
+    "currentTab": 0
+  },
+  "right": {
+    "id": "ea831f97dfe9b8b1",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "d5f4a6396435d9c9",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "private/Sessions/Session2.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "d301843f82275698",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "private/Sessions/Session2.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "1ec50e74e0768803",
+        "type": "leaf",
+        "state": {
+          "type": "initiative-tracker-view",
+          "state": {}
+        }
+      }
+    ]
   },
   "active": "d29a6f029456bceb",
   "lastOpenFiles": [

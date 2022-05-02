@@ -49,6 +49,7 @@ creatures:
 name: Fungi
 creatures: 
 - Violet Fungus
+party: First Party
 
 ---
 
