@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "private/Sessions/Session2.md",
-            "mode": "preview",
+            "file": "docs/calendar.md",
+            "mode": "source",
             "source": true
           }
         }
@@ -19,87 +19,103 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "8c60370ea4508015",
-    "type": "mobile-drawer",
+    "id": "02478a9fb09c4214",
+    "type": "split",
     "children": [
       {
-        "id": "c7cdc5ac57846999",
-        "type": "leaf",
-        "state": {
-          "type": "file-explorer",
-          "state": {}
-        }
-      },
-      {
-        "id": "621268c7f3a3d67c",
-        "type": "leaf",
-        "state": {
-          "type": "search",
-          "state": {
-            "query": "",
-            "matchingCase": false,
-            "explainSearch": false,
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical"
+        "id": "50f88ac22930177d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "44993f74eb617270",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "26b0cd4921ed70d9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
           }
-        }
+        ]
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 300
   },
   "right": {
-    "id": "ea831f97dfe9b8b1",
-    "type": "mobile-drawer",
+    "id": "c7ffee7ada78522d",
+    "type": "split",
     "children": [
       {
-        "id": "d5f4a6396435d9c9",
-        "type": "leaf",
-        "state": {
-          "type": "backlink",
-          "state": {
-            "file": "private/Sessions/Session2.md",
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical",
-            "showSearch": false,
-            "searchQuery": "",
-            "backlinkCollapsed": false,
-            "unlinkedCollapsed": true
+        "id": "8ea61667b35d2119",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1d9bf08b3d3282a9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "docs/calendar.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ba269d09f31143da",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "docs/calendar.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "07329ed792ee73cf",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {}
+            }
           }
-        }
-      },
-      {
-        "id": "d301843f82275698",
-        "type": "leaf",
-        "state": {
-          "type": "outgoing-link",
-          "state": {
-            "file": "private/Sessions/Session2.md",
-            "linksCollapsed": false,
-            "unlinkedCollapsed": true
-          }
-        }
-      },
-      {
-        "id": "1ec50e74e0768803",
-        "type": "leaf",
-        "state": {
-          "type": "initiative-tracker-view",
-          "state": {}
-        }
+        ]
       }
-    ]
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
   },
   "active": "d29a6f029456bceb",
   "lastOpenFiles": [
+    "docs/calendar.md",
     "private/Sessions/Session2.md",
     "private/Sessions/Session1.md",
     "private/Players/marxx.md",
     "docs/Lore/theGods.md",
     "docs/index.md",
     "docs/Sessions/sessionOne.md",
-    "docs/calendar.md",
     "private/History/Timeline.md",
     "docs/Factions/theAdventurersGuild.md",
     "private/HomebrewMaterial/HomebrewRules/homebrewRules.md"
