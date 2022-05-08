@@ -21,6 +21,10 @@ theme:
       toggle:
         icon: material/weather-night
         name: Switch to light mode
+  
+    features:
+      - navigation.top
+
 
 # Extensions
 markdown_extensions:
