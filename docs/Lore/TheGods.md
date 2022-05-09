@@ -15,7 +15,7 @@ Sometime after **The Decent**, and long before modern day a calamity struck the 
 &emsp;Symbols:
 
 - Death
-	Symbols:
+	- Symbols:
 
 - Forge
 	Symbols:
