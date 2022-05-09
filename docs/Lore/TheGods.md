@@ -12,43 +12,43 @@ Sometime after **The Decent**, and long before modern day a calamity struck the 
 
 ## A Godly List
 - Arcana
-&emsp;Symbols:
+	- Symbols:
 
 - Death
 	- Symbols:
 
 - Forge
-	Symbols:
+	- Symbols:
 
 - Grave
-Symbols:
+	- Symbols:
 
 - Knowledge
-Symbols:
+	- Symbols:
 
 - Life
-Symbols:
+	- Symbols:
 
 - Light
-Symbols:
+	- Symbols:
 
 - Nature
-Symbols:
+	- Symbols:
 
 - Order
-Symbols:
+	- Symbols:
 
 - Peace
-Symbols:
+	- Symbols:
 
 - Tempest
-Symbols:
+	- Symbols:
 
 - Trickery
-Symbols:
+	- Symbols:
 
 - Twilight
-Symbols:
+	- Symbols:
 
 - War
-Symbols:
+	- Symbols:
