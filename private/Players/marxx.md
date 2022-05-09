@@ -1,3 +1,6 @@
+## Backstory Arc
+- [[mourteen#Notable Places|The Heavenly Odeum]] is where Lord Barthum of Esmil was assassinated by an Arcine monk.
+
 Rabbit person
 
 
@@ -12,7 +15,7 @@ Village was attacked and best friend (Loxx) was killed. Has a vengeful hatred fo
 
 ```ad-info
 title: DM Secret
-The village was attacked by the Iron Claw orc tribe. These orcs were sponsored by the Esmil government as retribution for the assassination of an esmillian noble in [[mourteen]].
+The village was attacked by the Iron Claw orc tribe. These orcs were sponsored by the house of Barthum in Esmil as retribution for the assassination of an esmillian noble in [[mourteen]].
 ```
 
 ## Goals

@@ -2,7 +2,7 @@
 world: Guia
 date: 2022-04-08 
 game_date: 2022-04-27
-location: [[Mourteen]]
+location: [[mourteen]]
 characters: Marxx, Ru, Lyall
 #Session
 
@@ -18,7 +18,7 @@ Lyall, Marxx, and Ru entered the dungeon. Upon entering they noticed that the br
 - Get backstories.
 ## Beginning 
 
-Each of you sit deep in the temperate forest just shy of the small town of [[Mourteen]]. Before you crackles the last embers of a small fire that eliminates the face of [[eneregMith]], a hardened woodelf and your guide for the trial that lays ahead. As he pokes at the embers he looks at each of you in turn... DESCRIBE CHARACTERS... EXPLAIN TASK
+Each of you sit deep in the temperate forest just shy of the small town of [[mourteen]]. Before you crackles the last embers of a small fire that eliminates the face of [[eneregMith]], a hardened woodelf and your guide for the trial that lays ahead. As he pokes at the embers he looks at each of you in turn... DESCRIBE CHARACTERS... EXPLAIN TASK
 
 ## Strong start 
 > Adventure's crests have been place inside an old dungeon, the players must acquire these crests to pass their final trial and become adventurers.

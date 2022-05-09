@@ -9,3 +9,46 @@ It is believed that the gods descended to the mortal plane ages ago to live amon
 
 ## Gone without a Trace
 Sometime after **The Decent**, and long before modern day a calamity struck the world causing a collapse of civilization. After this event the gods were nowhere to be found.
+
+## A Godly List
+- Arcana
+    Symbols:
+
+- Death
+	Symbols:
+
+- Forge
+	Symbols:
+
+- Grave
+Symbols:
+
+- Knowledge
+Symbols:
+
+- Life
+Symbols:
+
+- Light
+Symbols:
+
+- Nature
+Symbols:
+
+- Order
+Symbols:
+
+- Peace
+Symbols:
+
+- Tempest
+Symbols:
+
+- Trickery
+Symbols:
+
+- Twilight
+Symbols:
+
+- War
+Symbols:

@@ -2,7 +2,7 @@
 The Adventurer's Guild was founded as a means to control the increasing population of opportunistic monsters and to explore the vast array of uncovered ruins.
 
 ## Borderless and Boundless
-Adventurers that bear the mark of the guild are generally admitted in any country regardless of their homeland. It is expected that adventurers remain neutral during times of war or political turmoil. There are heavy consequences for any adventurer caught carrying out an uncontracted political agenda.
+Adventurers that bear the mark of the guild are generally admitted in any country regardless of their homeland. It is expected that adventurers remain neutral during times of war or political turmoil once accepting and carrying out a contract.
 
 ## Always Available
 Most towns and cities have an area dedicated to the Adventure's Guild. These areas can range from a great manned keep to a backroom in a bar. Each dedicated area will, at minimum, have the means of fulfilling contracts and accepting new ones.

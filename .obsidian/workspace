@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/calendar.md",
+            "file": "docs/Lore/theGods.md",
             "mode": "source",
             "source": true
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/calendar.md",
+                "file": "docs/Lore/theGods.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/calendar.md",
+                "file": "docs/Lore/theGods.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,15 +109,15 @@
   },
   "active": "d29a6f029456bceb",
   "lastOpenFiles": [
-    "docs/calendar.md",
-    "private/Sessions/Session2.md",
-    "private/Sessions/Session1.md",
-    "private/Players/marxx.md",
     "docs/Lore/theGods.md",
-    "docs/index.md",
-    "docs/Sessions/sessionOne.md",
-    "private/History/Timeline.md",
     "docs/Factions/theAdventurersGuild.md",
-    "private/HomebrewMaterial/HomebrewRules/homebrewRules.md"
+    "private/History/timeline.md",
+    "private/z_codeBlocks.md",
+    "private/z_Attachments/simpleTrapSystem.jpg",
+    "private/Sessions/session0.md",
+    "private/Sessions/session2.md",
+    "private/Sessions/session1.md",
+    "private/HomebrewMaterial/theLazyDMsWorkbook.pdf",
+    "private/HomebrewMaterial/homebrewRules.md"
   ]
 }
