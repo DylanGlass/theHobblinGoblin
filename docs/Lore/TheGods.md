@@ -12,7 +12,7 @@ Sometime after **The Decent**, and long before modern day a calamity struck the 
 
 ## A Godly List
 - Arcana
-    Symbols:
+&emsp;Symbols:
 
 - Death
 	Symbols:
