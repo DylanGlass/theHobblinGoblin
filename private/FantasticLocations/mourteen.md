@@ -12,7 +12,7 @@ The town of Mourteen is a small bustling hamlet near the northern tip of the mai
 
 ## Population:
 
--   Approximately 58; mixed human and dwarf and half-elf.
+-   Approximately 38; mixed human and dwarf and half-elf.
 
 ## Government:
 
