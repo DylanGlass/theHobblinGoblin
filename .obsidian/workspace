@@ -19,93 +19,77 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "02478a9fb09c4214",
-    "type": "split",
+    "id": "55fce066c3073cac",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "50f88ac22930177d",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "44993f74eb617270",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {}
-            }
-          },
-          {
-            "id": "26b0cd4921ed70d9",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
+        "id": "d01a6d9aab0653b1",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "e8262b6709734174",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
           }
-        ]
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300
+    "currentTab": 0
   },
   "right": {
-    "id": "c7ffee7ada78522d",
-    "type": "split",
+    "id": "f2868ddf9bc700fb",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "8ea61667b35d2119",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "1d9bf08b3d3282a9",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "private/FantasticLocations/mourteen.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "ba269d09f31143da",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "private/FantasticLocations/mourteen.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "07329ed792ee73cf",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-view",
-              "state": {}
-            }
+        "id": "1c2b162c904e48d6",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "private/FantasticLocations/mourteen.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
           }
-        ]
+        }
+      },
+      {
+        "id": "d3af47357a54bcdf",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "private/FantasticLocations/mourteen.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "fb360954c8e28d7d",
+        "type": "leaf",
+        "state": {
+          "type": "initiative-tracker-view",
+          "state": {}
+        }
       }
-    ],
-    "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    ]
   },
   "active": "d29a6f029456bceb",
   "lastOpenFiles": [
