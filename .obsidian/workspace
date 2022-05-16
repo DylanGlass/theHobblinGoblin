@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "private/Sessions/session2.md",
+            "file": "private/FantasticLocations/portIlene.md",
             "mode": "source",
             "source": true
           }
@@ -19,90 +19,105 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "55fce066c3073cac",
-    "type": "mobile-drawer",
+    "id": "ced6b4f903ba9633",
+    "type": "split",
     "children": [
       {
-        "id": "d01a6d9aab0653b1",
-        "type": "leaf",
-        "state": {
-          "type": "file-explorer",
-          "state": {}
-        }
-      },
-      {
-        "id": "e8262b6709734174",
-        "type": "leaf",
-        "state": {
-          "type": "search",
-          "state": {
-            "query": "",
-            "matchingCase": false,
-            "explainSearch": false,
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical"
+        "id": "c039cdc9b971efa6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7db24828ef26bd0d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "a55e3b685a7bef6a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
           }
-        }
+        ]
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 300
   },
   "right": {
-    "id": "f2868ddf9bc700fb",
-    "type": "mobile-drawer",
+    "id": "58930a02c5531528",
+    "type": "split",
     "children": [
       {
-        "id": "1c2b162c904e48d6",
-        "type": "leaf",
-        "state": {
-          "type": "backlink",
-          "state": {
-            "file": "private/Sessions/session2.md",
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical",
-            "showSearch": false,
-            "searchQuery": "",
-            "backlinkCollapsed": false,
-            "unlinkedCollapsed": true
+        "id": "85d6946ff43cee7d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "909949c051b161ba",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "private/FantasticLocations/portIlene.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a23fc97f6369a949",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "private/FantasticLocations/portIlene.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "eea3f9e422847ced",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {}
+            }
           }
-        }
-      },
-      {
-        "id": "d3af47357a54bcdf",
-        "type": "leaf",
-        "state": {
-          "type": "outgoing-link",
-          "state": {
-            "file": "private/Sessions/session2.md",
-            "linksCollapsed": false,
-            "unlinkedCollapsed": true
-          }
-        }
-      },
-      {
-        "id": "fb360954c8e28d7d",
-        "type": "leaf",
-        "state": {
-          "type": "initiative-tracker-view",
-          "state": {}
-        }
+        ]
       }
     ],
-    "currentTab": 2
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
   },
   "active": "d29a6f029456bceb",
   "lastOpenFiles": [
+    "private/FantasticLocations/portIlene.md",
     "private/Sessions/session2.md",
+    "private/Sessions/session3.md",
+    "private/Sessions/session1.md",
     "private/ImportantNPCs/eneregMith.md",
     "private/Players/ruCielCharacterSheet.pdf",
     "private/Players/marxxCharacterSheet.pdf",
-    "private/Sessions/session1.md",
     "private/FantasticLocations/mourteen.md",
     "docs/Lore/theGods.md",
-    "private/FantasticLocations/esmil.md",
-    "private/FantasticLocations/portIlene.md",
-    "private/FantasticLocations/arist.md"
+    "private/FantasticLocations/esmil.md"
   ]
 }

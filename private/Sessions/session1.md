@@ -2,8 +2,8 @@
 world: Guia
 date: 2022-04-08 
 game_date: 2022-04-27
-location: [[mourteen]]
-characters: Marxx, Ru, Lyall
+location: Abandoned Factory
+characters: [Marxx, Ru, Lyall]
 #Session
 
 --- 
