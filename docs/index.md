@@ -1,7 +1,7 @@
 # The Campaign
 
 ## Adventure Hook
-An ancient and mysterious calamity caused the ruin of civilization and the disappearance of the gods from the mortal plane. Since then civilization has rebuilt itself, but no one seems to know why it collapsed in the first place.
+An ancient and mysterious calamity caused the ruin of civilization and the disappearance of the gods from the mortal plane. Since then civilization has rebuilt itself, but no one seems to know why it collapsed in the first place or why the gods haven't returned.
 
 
 ## Homebrew Rules
