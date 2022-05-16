@@ -27,7 +27,6 @@ recap done by the players
 - [ ] Fighting the boss.
 - [ ] Entering the abandoned mineshaft.
 
-
 ## Secrets and Clues 
 - [ ] Turning the peg wheel in the boss room of The Abandoned foundry turns the floor into a lift that descends into an abandoned mineshaft.
 - [ ] In the abandoned mineshaft there are aarakocra feathers that belonged to Ru's cousin Natch.

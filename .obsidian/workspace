@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "private/FantasticLocations/mourteen.md",
+            "file": "private/Sessions/session2.md",
             "mode": "source",
             "source": true
           }
@@ -58,7 +58,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "private/FantasticLocations/mourteen.md",
+            "file": "private/Sessions/session2.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -75,7 +75,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "private/FantasticLocations/mourteen.md",
+            "file": "private/Sessions/session2.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -89,19 +89,20 @@
           "state": {}
         }
       }
-    ]
+    ],
+    "currentTab": 2
   },
   "active": "d29a6f029456bceb",
   "lastOpenFiles": [
+    "private/Sessions/session2.md",
+    "private/ImportantNPCs/eneregMith.md",
+    "private/Players/ruCielCharacterSheet.pdf",
+    "private/Players/marxxCharacterSheet.pdf",
+    "private/Sessions/session1.md",
     "private/FantasticLocations/mourteen.md",
     "docs/Lore/theGods.md",
     "private/FantasticLocations/esmil.md",
     "private/FantasticLocations/portIlene.md",
-    "private/FantasticLocations/arist.md",
-    "private/FantasticLocations/witwallow.md",
-    "private/FantasticLocations/arcine.md",
-    "private/Players/marxx.md",
-    "docs/Factions/theAdventurersGuild.md",
-    "private/History/timeline.md"
+    "private/FantasticLocations/arist.md"
   ]
 }
