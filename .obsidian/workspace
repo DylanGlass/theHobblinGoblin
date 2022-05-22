@@ -7,9 +7,19 @@
         "id": "d29a6f029456bceb",
         "type": "leaf",
         "state": {
+          "type": "excalidraw",
+          "state": {
+            "file": "Diagrams/mourteen.excalidraw.md"
+          }
+        }
+      },
+      {
+        "id": "c1993849127d6d3c",
+        "type": "leaf",
+        "state": {
           "type": "markdown",
           "state": {
-            "file": "private/Sessions/session2.md",
+            "file": "private/FantasticLocations/mourteen.md",
             "mode": "source",
             "source": true
           }
@@ -69,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "private/Sessions/session2.md",
+                "file": "Diagrams/mourteen.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "private/Sessions/session2.md",
+                "file": "Diagrams/mourteen.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,15 +119,15 @@
   },
   "active": "d29a6f029456bceb",
   "lastOpenFiles": [
+    "Diagrams/mourteen.excalidraw.md",
+    "private/FantasticLocations/mourteen.md",
+    "Diagrams/Drawing 2022-05-21 21.32.31.excalidraw.md",
     "private/Sessions/session2.md",
     "docs/Lore/theGods.md",
     "docs/Sessions/sessionTwo.md",
     "docs/Sessions/sessionOne.md",
     "docs/calendar.md",
     "docs/index.md",
-    "private/FantasticLocations/portIlene.md",
-    "private/Sessions/session3.md",
-    "private/Sessions/session1.md",
-    "private/ImportantNPCs/eneregMith.md"
+    "private/FantasticLocations/portIlene.md"
   ]
 }
