@@ -10,7 +10,7 @@ characters: [Lyall, Marxx, Ru]
 
 ## Session Summary 
 
-summary
+Party defeated the Violet Fungi that were parasitizing the Elder Myconid Sovereign. The Sovereign left for the Underdark (It will remember their kindness). ==Lyall found a feather belonging to Ru's cousin==. The party became initiated adventurers and received their marks (Magical tattoo without attunement and no effect). The party entered [[mourteen]] and observed the glowing chicken and met the priest, innkeeper, and [[ormondWeirdwood]]. They know about the goblins in the Black Well.
 
 --- 
 ## Housekeeping 

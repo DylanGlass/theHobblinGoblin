@@ -4,7 +4,7 @@ date: {{date}}
 game_date: 2022-00-00
 location: Region 
 characters: [character, name, list] 
-tags
+#Session
 
 --- 
 
@@ -37,7 +37,27 @@ recap
 **Name.** Description
 
 ## Potential Monsters
-* Name (Book. page number/ link)
+```encounter-table
+name: test1
+creatures:
+- 2: monsters
+party: First Party
+
+---
+
+name: Fungi
+creatures: 
+- Violet Fungus
+party: First Party
+
+---
+
+name: Boss Fight
+creatures:
+- 4: Myconid Sovereign
+party: First Party
+
+```
 
 ## Loot 
 - [ ]
