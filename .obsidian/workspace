@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/calendar.md",
-            "mode": "preview",
+            "file": "private/Sessions/session4.md",
+            "mode": "source",
             "source": true
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/calendar.md",
+                "file": "private/Sessions/session4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/calendar.md",
+                "file": "private/Sessions/session4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,8 +124,8 @@
   },
   "active": "d29a6f029456bceb",
   "lastOpenFiles": [
-    "docs/calendar.md",
     "private/Sessions/session4.md",
+    "docs/calendar.md",
     "private/Sessions/session3.md",
     "private/z_Templates/sessionPrep_template.md",
     "private/Sessions/session2.md",

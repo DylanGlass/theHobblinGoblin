@@ -14,17 +14,14 @@ summary
 
 --- 
 ## Housekeeping 
-- [ ] Aubrey's friends oneshot. (Not ready for 8 people)
+- [ ] Aubrey's friends oneshot (Not ready for 8 people).
+- [ ] Spelljammer coming out in August.
 ## Recap 
 
 recap
 
 ## Strong start 
-> 
-
-## Scenes 
-- [ ] 
-- [ ] 
+> Chewed up Hunter named Simon Kipp is brought into the pub to be treated.
 
 
 ## Secrets and Clues 
@@ -36,7 +33,7 @@ recap
 ## Important NPCs
 **[[ormondWeirdwood]].** A cleanly shaven male human artificer.
 
-**Father Masym.** A male human preist of The God of Light. [[mourteen#A few NPCs]]
+**Father Masym.** A male human priest of The God of Light. [[mourteen#A few NPCs]]
 
 ## Potential Monsters
 ```encounter-table
