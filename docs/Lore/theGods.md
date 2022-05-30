@@ -12,13 +12,13 @@ Sometime after **The Decent**, and long before modern day a calamity struck the 
 
 ## A Godly List
 - Arcana
-	- Symbols:
+	- Symbols: An 'A' with a circle on top.
 
 - Death
 	- Symbols:
 
 - Forge
-	- Symbols:
+	- Symbols: A hammer with a rectangular head and a triangle inside the head.
 
 - Grave
 	- Symbols:
@@ -30,10 +30,10 @@ Sometime after **The Decent**, and long before modern day a calamity struck the 
 	- Symbols:
 
 - Light
-	- Symbols:
+	- Symbols: A golden sun with triangular rays.
 
 - Nature
-	- Symbols:
+	- Symbols: An oak tree, an oak leaf.
 
 - Order
 	- Symbols:
