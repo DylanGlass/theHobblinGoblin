@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "private/FantasticLocations/mourteen.md",
+            "file": "docs/calendar.md",
             "mode": "source",
             "source": true
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "private/FantasticLocations/mourteen.md",
+                "file": "docs/calendar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "private/FantasticLocations/mourteen.md",
+                "file": "docs/calendar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,10 +124,10 @@
   },
   "active": "d29a6f029456bceb",
   "lastOpenFiles": [
+    "docs/calendar.md",
     "private/FantasticLocations/mourteen.md",
     "docs/Lore/theGods.md",
     "private/Sessions/session4.md",
-    "docs/calendar.md",
     "private/Sessions/session3.md",
     "private/z_Templates/sessionPrep_template.md",
     "private/Sessions/session2.md",

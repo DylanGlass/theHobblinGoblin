@@ -41,7 +41,7 @@ The town of Mourteen is a small bustling hamlet near the northern tip of the mai
 	- ==Ormond thinks he has a poltergeist. Some nights when he wakes up is house is torn apart.==
 
 -   Father Masym (1): Male Dwarve Priest, Good. Father Masym has thick grey hair and grey eyes. He wears expensive clothing and a silver holy symbol. Father Masym is fascinated by riddles and word games.
-	- He is secretly fermenting sun wine for the upcoming summer solstice festival.
+	- He is prepping for a delivery of barley to make barley wine for the summer solstice.
 
 -  Sadon Commonbrook (2): Male Human inkeeper 57 years old, Good. Sadon has cropped, wavy, auburn hair and blue eyes, rugged mahogany skin. Sadon has a bland tattoo of the word happiness on his left arm and a colorful tattoo of a poem about happiness translated into deep speech on his neck. 
 	- He is secretly in a casual relationship with Ormond Weirdwood.
@@ -50,10 +50,3 @@ The town of Mourteen is a small bustling hamlet near the northern tip of the mai
 	- Recently one of his roosters has begun to glow in the moonlight. He believes this to be a sign from the god of light.
 	- He wishes to drink from the charred Boot of Mortimer, which is considered a great honor in Mourteen.
 
-
-## Plot Hooks:
-- The local stablemaster's rooster has begun to glow in the moonlight.
-- The preist is secretly making sunwine for an upcoming festival and requires a rare flower.
-- A theif is looking for a map of a hidden dungeon.
-- Cheese has been going missing from peoples yards. (Sigmond)
-- A hunter was attacked by a monster in the woods. His arm has been bitten. (Sigmond)
