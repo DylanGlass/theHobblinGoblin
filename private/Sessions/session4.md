@@ -21,7 +21,7 @@ summary
 recap
 
 ## Strong start 
-> Chewed up Hunter named Simon Kipp is brought into the pub to be treated.
+> Chewed up Hunter named [[mourteen#^ed4840|Simon Kipp]] is brought into the pub to be treated.
 
 
 ## Secrets and Clues 
@@ -37,23 +37,66 @@ recap
 
 ## Potential Monsters
 ```encounter-table
-name: The Black Well
+name: (A) The Entrance
 creatures:
-- 3: Goblin
+- 4: Giant Rats
+- 4: Spider Rats
 party: First Party
 
 ---
 
-name: The Black Well Black
+name: (D) Cavern Crossroads
 creatures: 
-- Black Pudding
+- 2: Explodey Rats
+- 3: Dragon Rats
+- 2: Laser Rats
 party: First Party
 
 ---
 
-name: Sigmond
+name: (E) Fungus Room
 creatures: 
-- [[Swarm of Cranium Rats, Sigmond]]
+- 8: Violet Fungus
+party: First Party
+
+---
+
+name: (G) Flooded Tunnel
+creatures: 
+- 3: Skeleton
+- 2: Gray Ooze
+party: First Party
+
+---
+
+name: (I) Storm's Rest (1 group/30ft)
+creatures: 
+- 5: Darkmantles
+party: First Party
+
+---
+
+name: (L) Demon Door
+creatures: 
+- 5: Fresco Spirits
+party: First Party
+
+---
+
+name: (M) Rat King's Bedroom
+creatures: 
+- Mimic
+party: First Party
+
+---
+
+name: (E) Fungus Room
+creatures: 
+- The Rat King
+- Dragon Rat
+- 2: Explodey Rat
+- Spider Rat
+- Squeaker Rat
 party: First Party
 
 ```

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "private/FantasticLocations/mourteen.md",
+            "file": "private/Sessions/session4.md",
             "mode": "source",
             "source": true
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "private/FantasticLocations/mourteen.md",
+                "file": "private/Sessions/session4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,14 +86,14 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "private/FantasticLocations/mourteen.md",
+                "file": "private/Sessions/session4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "eea3f9e422847ced",
+            "id": "f46fb9f0cb7fefb1",
             "type": "leaf",
             "state": {
               "type": "initiative-tracker-view",
@@ -102,32 +102,17 @@
           }
         ],
         "currentTab": 2
-      },
-      {
-        "id": "471b553d8bb0dd6c",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "73772d5ce8bf8ab2",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-creature-view",
-              "state": {}
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
-    "width": 569.5,
-    "collapsed": true
+    "width": 331.5
   },
   "active": "d29a6f029456bceb",
   "lastOpenFiles": [
+    "private/Sessions/session4.md",
     "private/FantasticLocations/mourteen.md",
     "docs/calendar.md",
     "docs/Lore/theGods.md",
-    "private/Sessions/session4.md",
     "private/Sessions/session3.md",
     "private/z_Templates/sessionPrep_template.md",
     "private/Sessions/session2.md",

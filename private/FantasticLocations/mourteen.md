@@ -63,11 +63,14 @@ Male Human Stablemaster/farmer 53 years old, Good. Yacob has short black hair an
 	- Recently one of his roosters has begun to glow in the moonlight. He believes this to be a sign from the god of light.
 	- He wishes to drink from the charred Boot of Mortimer, which is considered a great honor in Mourteen.
 
-### Huntmaster Iris Quince
+### Hunt-master Iris Quince
 Female Half orc Hunter 46 years old, Good. Iris has shoulder length black hair and green eyes. Her body holds scars from large prey. She wears fur and hide hunters clothes and carries a long bow. 
 	- Iris is proficient with medicine. 
 
-### Arine Lindhos 
-Male Halfelf Hunter 27 years old, Good. Arine has short brown hair and brown eyes. He wears fur and hide hunters clothes and carries a musket. 
-	- Arine was attacked by a creature in the woods (the rat king) and ignited his powder pouch to fend them off. He is in critical condition.
+### Simon Kipp 
+
+^ed4840
+
+Male Halfelf Hunter 27 years old, Good. Simon has short brown hair and brown eyes. He wears fur and hide hunters clothes and carries a musket. 
+	- Simon was attacked by a creature in the woods (the rat king) and ignited his powder pouch to fend them off. He is in critical condition.
 	- ==The Creature that attacked him invaded his mind and made him say when the barley shipment is coming.==
