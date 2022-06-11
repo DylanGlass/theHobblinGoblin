@@ -4,12 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "d29a6f029456bceb",
+        "id": "9225dd2ec553ed25",
         "type": "leaf",
+        "dimension": 50,
         "state": {
-          "type": "pdf",
+          "type": "markdown",
           "state": {
-            "file": "private/Players/Premade/mavisCovil.pdf"
+            "file": "private/FantasticLocations/mourteen.md",
+            "mode": "preview",
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "7af8cee0f5fc368e",
+        "type": "leaf",
+        "dimension": 50,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "private/Sessions/session4.md",
+            "mode": "preview",
+            "source": true
           }
         }
       }
@@ -17,90 +33,105 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "2596ed04c8d1aeeb",
-    "type": "mobile-drawer",
+    "id": "fe8d116f8f64d79b",
+    "type": "split",
     "children": [
       {
-        "id": "467fc2f34d4631b6",
-        "type": "leaf",
-        "state": {
-          "type": "file-explorer",
-          "state": {}
-        }
-      },
-      {
-        "id": "c6e5089152bff7f8",
-        "type": "leaf",
-        "state": {
-          "type": "search",
-          "state": {
-            "query": "",
-            "matchingCase": false,
-            "explainSearch": false,
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical"
+        "id": "c75e14a8a08713d4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "63a7af0d95701316",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "132d63b38ec88f3e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
           }
-        }
+        ]
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 300
   },
   "right": {
-    "id": "15b78506a654bc10",
-    "type": "mobile-drawer",
+    "id": "42c4e6b7c9c7d19d",
+    "type": "split",
     "children": [
       {
-        "id": "90c5a356b3c8ad59",
-        "type": "leaf",
-        "state": {
-          "type": "backlink",
-          "state": {
-            "file": "private/Players/Premade/mavisCovil.pdf",
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical",
-            "showSearch": false,
-            "searchQuery": "",
-            "backlinkCollapsed": false,
-            "unlinkedCollapsed": true
+        "id": "3640bb1a7cb72b32",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d3177749c4e4b26c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "private/Sessions/session4.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bb07e70e2e4520b5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "private/Sessions/session4.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1a9d8d56df54bb44",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {}
+            }
           }
-        }
-      },
-      {
-        "id": "39d4063db384a6f3",
-        "type": "leaf",
-        "state": {
-          "type": "outgoing-link",
-          "state": {
-            "file": "private/Players/Premade/mavisCovil.pdf",
-            "linksCollapsed": false,
-            "unlinkedCollapsed": true
-          }
-        }
-      },
-      {
-        "id": "d2e27a13bd039e2f",
-        "type": "leaf",
-        "state": {
-          "type": "initiative-tracker-view",
-          "state": {}
-        }
+        ],
+        "currentTab": 2
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 300
   },
-  "active": "d29a6f029456bceb",
+  "active": "7af8cee0f5fc368e",
   "lastOpenFiles": [
-    "private/Players/Premade/mavisCovil.pdf",
     "private/Sessions/session4.md",
     "private/FantasticLocations/mourteen.md",
+    "private/FantasticLocations/witwallow.md",
+    "private/Players/Premade/mavisCovil.pdf",
     "docs/calendar.md",
     "docs/Lore/theGods.md",
     "private/Sessions/session3.md",
     "private/z_Templates/sessionPrep_template.md",
     "private/Sessions/session2.md",
-    "Diagrams/mourteen.excalidraw.md",
-    "Diagrams/Drawing 2022-05-21 21.32.31.excalidraw.md"
+    "Diagrams/mourteen.excalidraw.md"
   ]
 }

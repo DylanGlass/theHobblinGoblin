@@ -14,11 +14,16 @@ summary
 
 --- 
 ## Housekeeping 
-- [ ] Aubrey's friends oneshot (Not ready for 8 people).
-- [ ] Spelljammer coming out in August.
+- [x] Aubrey's friends oneshot (Not ready for 8 people).
+- [x] Spelljammer coming out in August.
 ## Recap 
-
-recap
+Party completed the dungeon and became adventuers
+Enreg said to go to Mourteen and check on Dr. Weirdwood.
+Encountered Yacob who claims his chicken glows in the dark.
+Chicken did glow and the town took it as a sign that the God of Light is still among them.
+Father said about the ruins and the lost gods.
+Accepted mission to find toy lost in well, found Dr. Weirdwood in well.
+Dr invited them to the lab.
 
 ## Strong start 
 > Chewed up Hunter named [[mourteen#^ed4840|Simon Kipp]] is brought into the pub to be treated.
