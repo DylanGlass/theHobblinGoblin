@@ -1,7 +1,7 @@
 --- 
 world: Guia 
 date: 2022-05-26 
-game_date: 2022-05-29
+game_date: 2022-06-11
 location: Mourteen 
 characters: [ [[marxx]], [[ruCiel]], [[lyall]] ] 
 #Session 
@@ -10,27 +10,29 @@ characters: [ [[marxx]], [[ruCiel]], [[lyall]] ]
 
 ## Session Summary 
 
-summary
+Ru noticed one of Dr. Weirdwood's lab benches move. Intro to Iris. Saw Simon Kipp half blown apart from igniting his powder pack to save himself from a creature attacking him. Went to the site of explosion and found rat tracks leading to the Black Well. Went down the black well, found two goblins who turned out to be wood cutouts. Were attacked by giant rats and spider-rat abominations.
 
 --- 
 ## Housekeeping 
 - [x] Aubrey's friends oneshot (Not ready for 8 people).
 - [x] Spelljammer coming out in August.
 ## Recap 
-Party completed the dungeon and became adventuers
+Party completed the dungeon and became adventures
 Enreg said to go to Mourteen and check on Dr. Weirdwood.
 Encountered Yacob who claims his chicken glows in the dark.
 Chicken did glow and the town took it as a sign that the God of Light is still among them.
 Father said about the ruins and the lost gods.
 Accepted mission to find toy lost in well, found Dr. Weirdwood in well.
-Dr invited them to the lab.
+Dr. Weirdwood invited them to the lab.
 
 ## Strong start 
 > Chewed up Hunter named [[mourteen#^ed4840|Simon Kipp]] is brought into the pub to be treated.
 
 
 ## Secrets and Clues 
-- [ ] 
+- [x] Goblin cutouts in Black Well.
+- [x] Black Well opens into a cavern.
+- [x] Dr. Weirdwood has a secret vault under his lab bench.
 
 ## Fantastic Locations
 **[[mourteen]]**: A small hunting village on the northern point of the main continent.
@@ -113,3 +115,4 @@ party: First Party
 --- 
 
 ## Log
+Ru noticed that Dr. Weirdwood's lab bench moves. (Secret vault under it).

@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "private/FantasticLocations/mourteen.md",
-            "mode": "preview",
+            "file": "private/Sessions/session4.md",
+            "mode": "source",
             "source": true
           }
         }
@@ -23,8 +23,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "private/Sessions/session4.md",
-            "mode": "preview",
+            "file": "private/Sessions/session5.md",
+            "mode": "source",
             "source": true
           }
         }
@@ -119,19 +119,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "7af8cee0f5fc368e",
+  "active": "9225dd2ec553ed25",
   "lastOpenFiles": [
     "private/Sessions/session4.md",
+    "private/Sessions/session5.md",
     "private/FantasticLocations/mourteen.md",
+    "private/Players/marxxCharacterSheet.pdf",
+    "private/Players/marxx.md",
     "private/FantasticLocations/witwallow.md",
     "private/Players/Premade/mavisCovil.pdf",
     "docs/calendar.md",
     "docs/Lore/theGods.md",
-    "private/Sessions/session3.md",
-    "private/z_Templates/sessionPrep_template.md",
-    "private/Sessions/session2.md",
-    "Diagrams/mourteen.excalidraw.md"
+    "private/Sessions/session3.md"
   ]
 }
