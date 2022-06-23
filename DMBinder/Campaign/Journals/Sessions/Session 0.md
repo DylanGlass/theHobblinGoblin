@@ -2,8 +2,8 @@
 #Session
 ## Orders of Business
 - [x] Does Aubrey want to run the first dungeon or play in it? Play in it.
-- [x] [[session0#Adventure's Trial]]
-- [x] Hard no, off screen, and fade to black topics [[session0#Triggers and Uncomfortables]]
+- [x] [[Session 0#Adventure's Trial]]
+- [x] Hard no, off screen, and fade to black topics [[Session 0#Triggers and Uncomfortables]]
 - [x] What are you looking for in the campaign? Intrigue, **combat**, roleplaying, **mystery**, exploration, **dungeon crawling**? Moral ambiguity.
 - [x] Rules to add or take away.
 - [x] Character creation.

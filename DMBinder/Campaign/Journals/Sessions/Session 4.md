@@ -3,7 +3,7 @@ world: Guia
 date: 2022-05-26 
 game_date: 2022-06-11
 location: Mourteen 
-characters: [ [[marxx]], [[ruCiel]], [[lyall]] ] 
+characters: [ [[Marxx]], [[Ru Ciel]], [[Lyall]] ] 
 #Session 
 
 --- 

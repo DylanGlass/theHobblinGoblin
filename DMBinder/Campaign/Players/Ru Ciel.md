@@ -3,7 +3,7 @@ Amazon tribe vibe with chief and multiple wives. Ru comes from chief's younger s
 
 Send young warriors to fight to become great warriors and bring glory back to the nest. 
 
-Old Arrococra on the ground are shamed or failed warriors.
+Old Aarakocra on the ground are shamed or failed warriors.
 
 ## Character Questions
 ### Why is your character adventuring?

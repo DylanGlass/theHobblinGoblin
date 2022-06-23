@@ -53,7 +53,7 @@ The session started when the violet tendril from session one laid across Lyall's
 - [ ] In the abandoned mineshaft there are aarakocra feathers that belonged to Ru's cousin Natch.
 
 ## Fantastic Locations
-**The Abandoned Foundry**: The abandoned foundry is an ancient ruin of what was once an advanced foundry. Due to its proximity to [[theAdventurersGuild]] it has become a staple in their trials.
+**The Abandoned Foundry**: The abandoned foundry is an ancient ruin of what was once an advanced foundry. Due to its proximity to [[The Adventurer's Guild]] it has become a staple in their trials.
 
 ## Important NPCs
 **[[eneregMith|Enereg Mith]].** [[eneregMith#Description|Description]]

@@ -3,7 +3,7 @@ world: Guia
 date: 2022-06-11 
 game_date: 2022-06-26
 location: The Black Well (Lair of The Rat King) 
-characters: [[[lyall]], [[marxx]], [[ruCiel]]] 
+characters: [[[lyall]], [[Marxx]], [[Ru Ciel]]] 
 #Session
 
 --- 

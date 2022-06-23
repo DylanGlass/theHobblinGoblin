@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "aca6372fb3d23788",
+        "id": "6a3da54408d77171",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -36,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "lyall",
+                "query": "tag:#lyall",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -56,46 +56,19 @@
     "type": "split",
     "children": [
       {
-        "id": "3640bb1a7cb72b32",
+        "id": "9de3115546a4b71d",
         "type": "tabs",
         "children": [
           {
-            "id": "d3177749c4e4b26c",
+            "id": "01908ab01f65b851",
             "type": "leaf",
             "state": {
-              "type": "backlink",
-              "state": {
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "bb07e70e2e4520b5",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "1a9d8d56df54bb44",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-view",
+              "type": "advanced-tables-toolbar",
               "state": {}
             }
           },
           {
-            "id": "c25390aeb3f7277f",
+            "id": "859226c6f0dc6b3a",
             "type": "leaf",
             "state": {
               "type": "FANTASY_CALENDAR",
@@ -103,23 +76,23 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
     "width": 538.5
   },
-  "active": "aca6372fb3d23788",
+  "active": "6a3da54408d77171",
   "lastOpenFiles": [
-    "DMBinder/World/Calendars/guiaCalendar.md",
-    "README.md",
-    "holder/z_Templates/place_template.md",
-    "holder/HomebrewMaterial/monstrousMenagerie.pdf",
-    "holder/HomebrewMaterial/monsterManual5.pdf",
-    "holder/HomebrewMaterial/monsterManual3.pdf",
-    "holder/HomebrewMaterial/homebrewRules.md",
-    "holder/HomebrewMaterial/darkMatter5e.pdf",
-    "holder/HomebrewMaterial/Monsters/fallenLeShay.md",
-    "holder/HomebrewMaterial/Monsters/falseHydra.md"
+    "Untitled.md",
+    "z_Templates/Test Monster.md",
+    "DMBinder/Campaign/Items/Natch's Feather.md",
+    "DMBinder/Campaign/Players/Ru Ciel.md",
+    "DMBinder/Campaign/Journals/Notes.md",
+    "DMBinder/World/Locations/The Foundry.md",
+    "DMBinder/Campaign/Journals/Sessions/Session 0.md",
+    "DMBinder/Campaign/Journals/Sessions/Session 2.md",
+    "DMBinder/Campaign/Journals/Sessions/Session 1.md",
+    "DMBinder/Campaign/Players/Lyall.md"
   ]
 }

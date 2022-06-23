@@ -181,7 +181,7 @@
   "currentCalendar": null,
   "dailyNotes": false,
   "dateFormat": "YYYY-MM-DD",
-  "defaultCalendar": "Guia's Calendar",
+  "defaultCalendar": null,
   "eventPreview": false,
   "exit": {
     "saving": false,

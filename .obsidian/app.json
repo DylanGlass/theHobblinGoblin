@@ -8,5 +8,7 @@
   "promptDelete": false,
   "attachmentFolderPath": "Attachments",
   "livePreview": false,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "showFrontmatter": true,
+  "strictLineBreaks": false
 }
