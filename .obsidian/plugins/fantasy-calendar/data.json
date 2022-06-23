@@ -1,0 +1,205 @@
+{
+  "addToDefaultIfMissing": true,
+  "calendars": [
+    {
+      "name": "Guia's Calendar",
+      "description": "The moon based calendar used by the continent of Guia.",
+      "id": null,
+      "static": {
+        "incrementDay": false,
+        "firstWeekDay": 0,
+        "overflow": true,
+        "weekdays": [
+          {
+            "type": "day",
+            "name": "Mosday",
+            "id": "ID_79db9a799aa9"
+          },
+          {
+            "type": "day",
+            "name": "Tesday",
+            "id": "ID_f9a919cb28fb"
+          },
+          {
+            "type": "day",
+            "name": "Wesday",
+            "id": "ID_9a6b5ba88aa9"
+          },
+          {
+            "type": "day",
+            "name": "Ixday",
+            "id": "ID_db2a091a3958"
+          },
+          {
+            "type": "day",
+            "name": "Imixday",
+            "id": "ID_382b4838d84b"
+          },
+          {
+            "type": "day",
+            "name": "Ebday",
+            "id": "ID_68489af97929"
+          },
+          {
+            "type": "day",
+            "name": "Resday",
+            "id": "ID_f96a69082b5a"
+          }
+        ],
+        "months": [
+          {
+            "type": "month",
+            "name": "First Moon of Spring",
+            "length": 28,
+            "id": "ID_6b786beb0a7b"
+          },
+          {
+            "type": "month",
+            "name": "Second Moon of Spring",
+            "length": 28,
+            "id": "ID_78aaf8483b58"
+          },
+          {
+            "type": "month",
+            "name": "Last Moon of Spring",
+            "length": 28,
+            "id": "ID_1ad98ac94b0a"
+          },
+          {
+            "type": "month",
+            "name": "First Moon of Summer",
+            "length": 28,
+            "id": "ID_db3babd85bfa"
+          },
+          {
+            "type": "month",
+            "name": "Second Moon of Summer",
+            "length": 28,
+            "id": "ID_39294bc82b89"
+          },
+          {
+            "type": "month",
+            "name": "Last Moon of Summer",
+            "length": 28,
+            "id": "ID_ca698a08bb4b"
+          },
+          {
+            "type": "month",
+            "name": "First Moon of Autumn",
+            "length": 28,
+            "id": "ID_49d8ba395818"
+          },
+          {
+            "type": "month",
+            "name": "Second Moon of Autumn",
+            "length": 28,
+            "id": "ID_9a6b58c97bbb"
+          },
+          {
+            "type": "month",
+            "name": "Last Moon of Autumn",
+            "length": 28,
+            "id": "ID_cab83bbac8db"
+          },
+          {
+            "type": "month",
+            "name": "First Moon of Winter",
+            "length": 28,
+            "id": "ID_bbcb08887bb9"
+          },
+          {
+            "type": "month",
+            "name": "Second Moon of Winter",
+            "length": 28,
+            "id": "ID_58180b48687b"
+          },
+          {
+            "type": "month",
+            "name": "Last Moon of Winter",
+            "length": 28,
+            "id": "ID_1b989bbb1a79"
+          }
+        ],
+        "moons": [
+          {
+            "name": "Guia's Moon",
+            "cycle": 28,
+            "offset": null,
+            "faceColor": "#b0b0b0",
+            "shadowColor": "#000",
+            "id": "ID_59395be9ba4a"
+          }
+        ],
+        "displayMoons": true,
+        "displayDayNumber": true,
+        "leapDays": [],
+        "eras": [],
+        "useCustomYears": false,
+        "years": []
+      },
+      "current": {
+        "year": 1193,
+        "month": 0,
+        "day": 3
+      },
+      "events": [
+        {
+          "name": "Adventurer's Final Trial",
+          "description": "The final trials for adventurer initiates is conducted",
+          "date": {
+            "day": 2,
+            "month": 0,
+            "year": 1193
+          },
+          "id": "ID_98983a99a8a8",
+          "note": null,
+          "category": null
+        },
+        {
+          "name": "Barley shipment",
+          "description": "A barley shipment is due in Mourteen. This barley is for making barley wine for the summer solstice.",
+          "date": {
+            "day": 11,
+            "month": 0,
+            "year": 1193
+          },
+          "id": "ID_fb38e889d8a8",
+          "note": null,
+          "category": null
+        }
+      ],
+      "categories": [],
+      "autoParse": false,
+      "path": "/",
+      "supportTimelines": false,
+      "syncTimelines": true,
+      "timelineTag": "#timeline",
+      "displayWeeks": true
+    }
+  ],
+  "configDirectory": null,
+  "currentCalendar": null,
+  "dailyNotes": false,
+  "dateFormat": "YYYY-MM-DD",
+  "defaultCalendar": "Guia's Calendar",
+  "eventPreview": false,
+  "exit": {
+    "saving": false,
+    "event": false,
+    "calendar": false
+  },
+  "eventFrontmatter": false,
+  "parseDates": false,
+  "settingsToggleState": {
+    "calendars": true,
+    "events": false,
+    "advanced": true
+  },
+  "showIntercalary": false,
+  "version": {
+    "major": null,
+    "minor": null,
+    "patch": null
+  },
+  "debug": false
+}
