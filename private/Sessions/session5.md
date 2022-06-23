@@ -14,18 +14,14 @@ summary
 
 --- 
 ## Housekeeping 
-
+- [ ] Using initiative display chips.
+- [ ] 
 ## Recap 
 
 recap
 
 ## Strong start 
-> 
-
-## Scenes 
-- [ ] 
-- [ ] 
-
+> Starting in combat with abomination rats.
 
 ## Secrets and Clues 
 - [ ] 
